@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1549629801125.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "7630AC92",
+    "lastKnownWriteTime" : 6992412905353994336,
+    "last_content_update" : 1549629801125,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "id" : "e00fce0518de43969a24f1b19faa397d",
+        "name" : "balcony",
+        "title" : "balcony"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "object_explorer"
+}

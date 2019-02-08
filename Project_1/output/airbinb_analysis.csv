@@ -1,0 +1,545 @@
+Host Id,Host Since,Name,Neighbourhood,Property Type,Review Scores Rating (bin),Room Type,Zipcode,Beds,Number of Records,Number Of Reviews,Price,Review Scores Rating,Host_Since
+25475429,2015-01-01T00:00:00Z,"HUGE 2 bdrm, Lorimer L Stop Wburg!",Brooklyn,Apartment,NA,Entire home/apt,11211,2,1,0,315,NA,2015-01-01
+25468442,2015-01-01T00:00:00Z,Perfectly Located Brooklyn Studio,Brooklyn,Apartment,95,Entire home/apt,11238,1,1,10,98,95,2015-01-01
+25472836,2015-01-01T00:00:00Z,Duplex garden brownstone apt,Brooklyn,Apartment,NA,Entire home/apt,11238,1,1,0,150,NA,2015-01-01
+25475562,2015-01-01T00:00:00Z,3 Bd 1.5 bath Family Friendly apt,Manhattan,Apartment,NA,Entire home/apt,10025,2,1,0,200,NA,2015-01-01
+25476493,2015-01-01T00:00:00Z,Quirky BrwnStone Studio in Harlem,Manhattan,Apartment,NA,Entire home/apt,10027,1,1,0,115,NA,2015-01-01
+25478399,2015-01-01T00:00:00Z,"Rockaway Beach, New York City",Queens,Apartment,65,Entire home/apt,11693,2,1,5,150,68,2015-01-01
+25468672,2015-01-01T00:00:00Z,Spacious Beautifully Furnished Room,Brooklyn,Apartment,NA,Private room,11225,1,1,0,45,NA,2015-01-01
+25473311,2015-01-01T00:00:00Z,Huge room Empire view window,Queens,House,100,Private room,11104,1,1,1,65,100,2015-01-01
+25518711,2015-01-02T00:00:00Z,Sunny Studio Apartment,Brooklyn,Apartment,90,Entire home/apt,11201,1,1,9,150,91,2015-01-02
+25497255,2015-01-02T00:00:00Z,Cozy Fort Greene 1 Bedroom Suite,Brooklyn,Apartment,85,Entire home/apt,11205,2,1,19,160,89,2015-01-02
+25512110,2015-01-02T00:00:00Z,WILLIAMSBURG APT 2 bed 1 1/2 bath,Brooklyn,Apartment,NA,Entire home/apt,11211,3,1,0,290,NA,2015-01-02
+25503836,2015-01-02T00:00:00Z,Spacious master BDRM in heart of BK,Brooklyn,Apartment,100,Entire home/apt,11232,1,1,3,60,100,2015-01-02
+25520865,2015-01-02T00:00:00Z,SUNNY HISTORIC BROWNSTONE.,Brooklyn,Apartment,NA,Entire home/apt,11249,2,1,0,150,NA,2015-01-02
+25517227,2015-01-02T00:00:00Z,Williamsburg Loft!!! Brooklyn:)!!!!,Brooklyn,Loft,90,Entire home/apt,11206,2,1,37,99,94,2015-01-02
+25494876,2015-01-02T00:00:00Z,Newly ren.  & clean Apt in LES,Manhattan,Apartment,100,Entire home/apt,10002,1,1,2,99,100,2015-01-02
+25502378,2015-01-02T00:00:00Z,Cozy Studio in the East Village,Manhattan,Apartment,95,Entire home/apt,10003,1,1,12,110,97,2015-01-02
+25495114,2015-01-02T00:00:00Z,spacious and beautiful apt,Manhattan,Apartment,NA,Entire home/apt,10009,1,1,0,190,NA,2015-01-02
+25518844,2015-01-02T00:00:00Z,Charming West Village studio,Manhattan,Apartment,90,Entire home/apt,10011,1,1,10,230,91,2015-01-02
+25503877,2015-01-02T00:00:00Z,Beautiful Greenwich Village Studio,Manhattan,Apartment,90,Entire home/apt,10012,1,1,19,180,90,2015-01-02
+25479415,2015-01-02T00:00:00Z,Clean & Spacious 1BR UWS Apt,Manhattan,Apartment,NA,Entire home/apt,10023,1,1,0,260,NA,2015-01-02
+25500607,2015-01-02T00:00:00Z,Spacious 1 BDRM Duplex,Manhattan,Apartment,100,Entire home/apt,10039,1,1,4,110,100,2015-01-02
+25514505,2015-01-02T00:00:00Z,Cozy Lenox Hill Studio,Manhattan,Apartment,85,Entire home/apt,10065,1,1,9,120,89,2015-01-02
+25516576,2015-01-02T00:00:00Z,Guests are always welcome,Brooklyn,Apartment,100,Private room,11207,1,1,1,69,100,2015-01-02
+25512110,2015-01-02T00:00:00Z,Amazing Master Bedroom,Brooklyn,Apartment,NA,Private room,11211,1,1,0,100,NA,2015-01-02
+25517905,2015-01-02T00:00:00Z,Beautiful Central Park View,Manhattan,Apartment,85,Private room,NA,1,1,12,99,87,2015-01-02
+25482104,2015-01-02T00:00:00Z,Cosy Single Bedroom in Gramercy,Manhattan,Apartment,60,Private room,10010,1,1,2,69,60,2015-01-02
+25514311,2015-01-02T00:00:00Z,"Murray Hill, Private One Bedroom",Manhattan,Apartment,100,Private room,10016,1,1,1,125,100,2015-01-02
+25517905,2015-01-02T00:00:00Z,Amazing Central Park view,Manhattan,Apartment,75,Private room,10025,3,1,16,120,76,2015-01-02
+25517905,2015-01-02T00:00:00Z,LOVE Central Park Room Private Bath,Manhattan,Apartment,85,Private room,10025,1,1,12,99,87,2015-01-02
+25516046,2015-01-02T00:00:00Z,Quiet room in Harlem,Manhattan,Apartment,100,Private room,10035,1,1,2,65,100,2015-01-02
+25479861,2015-01-02T00:00:00Z,A place to call home. A large room!,Queens,Apartment,NA,Private room,11104,1,1,1,79,NA,2015-01-02
+25517905,2015-01-02T00:00:00Z,Charming New York,Queens,Apartment,70,Private room,11372,1,1,4,50,73,2015-01-02
+25502436,2015-01-02T00:00:00Z,Private space in Brooklyn Heights,Brooklyn,Townhouse,NA,Shared room,11201,1,1,0,95,NA,2015-01-02
+25521114,2015-01-02T00:00:00Z,Cozy apartment on East 122nd Street,Manhattan,Apartment,NA,Shared room,10035,1,1,1,55,NA,2015-01-02
+25543902,2015-01-03T00:00:00Z,Williamsburg Loft with City Views,Brooklyn,Loft,NA,Entire home/apt,11249,2,1,0,155,NA,2015-01-03
+25551160,2015-01-03T00:00:00Z,Romantic 1800's 3 Day Get Away NYC,Manhattan,Apartment,NA,Entire home/apt,10014,1,1,0,225,NA,2015-01-03
+25525211,2015-01-03T00:00:00Z,Near 8 trains Room own WC/SpaShower,Brooklyn,Apartment,90,Private room,11201,1,1,3,118,90,2015-01-03
+25552241,2015-01-03T00:00:00Z,Large Bedroom in Brooklyn Apartment,Brooklyn,Apartment,NA,Private room,11206,1,1,0,33,NA,2015-01-03
+25545729,2015-01-03T00:00:00Z,awesome room w balcony in Brooklyn!,Brooklyn,Apartment,NA,Private room,11207,1,1,0,60,NA,2015-01-03
+25545558,2015-01-03T00:00:00Z,Cozy Nook in Bushwick,Brooklyn,Apartment,100,Private room,11237,1,1,4,48,100,2015-01-03
+25548541,2015-01-03T00:00:00Z,Stylish Apt w/ outdoor porch,Manhattan,Apartment,100,Private room,10002,1,1,1,98,100,2015-01-03
+25561457,2015-01-03T00:00:00Z,Beautiful&Clean Full bed room,Manhattan,Apartment,100,Private room,10029,1,1,2,65,100,2015-01-03
+25561457,2015-01-03T00:00:00Z,Beautiful&Clean LoftSingle room $65,Manhattan,Apartment,65,Private room,10029,1,1,4,65,65,2015-01-03
+25561457,2015-01-03T00:00:00Z,beautiful&clean Queen room $70,Manhattan,Apartment,80,Private room,10029,1,1,5,70,80,2015-01-03
+25561457,2015-01-03T00:00:00Z,Beautiful&Clean Single room2,Manhattan,Apartment,NA,Private room,10029,1,1,1,65,NA,2015-01-03
+25561457,2015-01-03T00:00:00Z,Beautiul&Clean Single room$65,Manhattan,Apartment,75,Private room,10029,1,1,4,65,75,2015-01-03
+25541453,2015-01-03T00:00:00Z,Charming furnished room near subway,Brooklyn,Bed & Breakfast,NA,Shared room,11210,1,1,0,70,NA,2015-01-03
+25593193,2015-01-04T00:00:00Z,Spacious East Williamsburg Home,Brooklyn,Apartment,90,Entire home/apt,11206,1,1,10,140,94,2015-01-04
+25612896,2015-01-04T00:00:00Z,Cozy Brooklyn 1br apartment,Brooklyn,Apartment,100,Entire home/apt,11215,2,1,1,75,100,2015-01-04
+25603684,2015-01-04T00:00:00Z,"NYC LOFT 3BR NEAR TIMES SQ,EMPIREBD",Manhattan,Apartment,50,Entire home/apt,10001,3,1,2,399,50,2015-01-04
+25603684,2015-01-04T00:00:00Z,"NYC LOFT 5BR NEAR TIMES SQ,EMPIREBD",Manhattan,Apartment,90,Entire home/apt,10001,9,1,10,650,92,2015-01-04
+25603684,2015-01-04T00:00:00Z,"NYC Studio Near TIMES SQ, EMPIRE BD",Manhattan,Apartment,65,Entire home/apt,10001,3,1,5,195,68,2015-01-04
+25581535,2015-01-04T00:00:00Z,Luxury Soho studio w/ large kitchen,Manhattan,Apartment,100,Entire home/apt,10012,1,1,5,350,100,2015-01-04
+25605949,2015-01-04T00:00:00Z,SUPER COOL WEST VILLAGE APARTMENT,Manhattan,Apartment,NA,Entire home/apt,10014,1,1,0,280,NA,2015-01-04
+25605887,2015-01-04T00:00:00Z,Beautiful One Bedroom Apartment,Manhattan,Apartment,NA,Entire home/apt,10019,1,1,0,450,NA,2015-01-04
+25591354,2015-01-04T00:00:00Z,Amazing 1 bedroom in Manhattan!,Manhattan,Apartment,80,Entire home/apt,10022,3,1,2,180,80,2015-01-04
+25612488,2015-01-04T00:00:00Z,Lincoln Center Studio on the Park,Manhattan,Apartment,100,Entire home/apt,10023,1,1,3,200,100,2015-01-04
+25599949,2015-01-04T00:00:00Z,New Luxury Harlem 1BR  near subway,Manhattan,Apartment,100,Entire home/apt,10029,3,1,2,190,100,2015-01-04
+25602417,2015-01-04T00:00:00Z,Modern One Bed Apt Near Time Square,Manhattan,Apartment,NA,Entire home/apt,10036,2,1,0,250,NA,2015-01-04
+25597044,2015-01-04T00:00:00Z,Upper East Side 1 Bedroom,Manhattan,Apartment,NA,Entire home/apt,10075,1,1,0,200,NA,2015-01-04
+25593214,2015-01-04T00:00:00Z,Great Apt in Battery Park City,Manhattan,Apartment,80,Entire home/apt,10280,2,1,2,185,80,2015-01-04
+25606420,2015-01-04T00:00:00Z,Mint One Bedroom Apt (1st floor) -,Queens,Apartment,100,Entire home/apt,11367,1,1,5,90,100,2015-01-04
+25604908,2015-01-04T00:00:00Z,Room in gorgeous 3 Bd brownstone,Brooklyn,Apartment,NA,Private room,11206,1,1,0,70,NA,2015-01-04
+25605949,2015-01-04T00:00:00Z,SUPER COOL WEST VILLAGE APARTMENT,Manhattan,Apartment,80,Private room,10014,1,1,7,140,83,2015-01-04
+25612960,2015-01-04T00:00:00Z,Private Room/Convenient/Clean,Manhattan,Apartment,NA,Private room,10037,1,1,0,72,NA,2015-01-04
+25615380,2015-01-04T00:00:00Z,Apt. Próximo a estação de metrô,Manhattan,Apartment,NA,Private room,10040,1,1,0,70,NA,2015-01-04
+25583017,2015-01-04T00:00:00Z,1 BR for Rent in LIC Apartment,Queens,Apartment,NA,Private room,11101,1,1,0,150,NA,2015-01-04
+25602663,2015-01-04T00:00:00Z,great cozy room  5 minutes to city,Queens,Apartment,NA,Private room,11101,3,1,0,90,NA,2015-01-04
+25634943,2015-01-05T00:00:00Z,East Village/Union Square Studio,Manhattan,Apartment,85,Entire home/apt,10003,1,1,10,250,89,2015-01-05
+25646971,2015-01-05T00:00:00Z,A quintessential downtown NYC loft,Manhattan,Apartment,NA,Entire home/apt,10007,2,1,0,300,NA,2015-01-05
+25634943,2015-01-05T00:00:00Z,"Spacious, Sunny Murray Hill Studio",Manhattan,Apartment,NA,Entire home/apt,10016,2,1,0,200,NA,2015-01-05
+25639040,2015-01-05T00:00:00Z,Charming 1BR apt in Upper West Side,Manhattan,Apartment,NA,Entire home/apt,10024,1,1,0,149,NA,2015-01-05
+25642796,2015-01-05T00:00:00Z,Cozy studio close to Central Park!,Manhattan,House,NA,Entire home/apt,10128,1,1,0,255,NA,2015-01-05
+25641892,2015-01-05T00:00:00Z,Newly Renovated 1 Bedroom Apartment,Staten Island,House,NA,Entire home/apt,10301,2,1,0,99,NA,2015-01-05
+25641892,2015-01-05T00:00:00Z,Newly Renovated 1 Bedroom Apartment,Staten Island,House,60,Entire home/apt,10301,2,1,1,79,60,2015-01-05
+25641892,2015-01-05T00:00:00Z,Charming private Studio,Staten Island,House,95,Entire home/apt,10310,2,1,43,75,95,2015-01-05
+25657835,2015-01-05T00:00:00Z,"Cozy, clean, private 1 bdrm",Brooklyn,Apartment,100,Private room,11216,1,1,1,50,100,2015-01-05
+25618304,2015-01-05T00:00:00Z,"Cute, Comfortable, and Quiet Room",Brooklyn,Apartment,100,Private room,11221,1,1,1,64,100,2015-01-05
+25659608,2015-01-05T00:00:00Z,Cozy Room with Private Entry!,Brooklyn,House,90,Private room,11221,1,1,12,90,93,2015-01-05
+25642715,2015-01-05T00:00:00Z,Comfortable Lower East Side 2 BR,Manhattan,Apartment,NA,Private room,10002,1,1,0,200,NA,2015-01-05
+25651036,2015-01-05T00:00:00Z,Spacious Bright & New with Rooftop,Manhattan,Apartment,100,Private room,10002,1,1,1,110,100,2015-01-05
+25650932,2015-01-05T00:00:00Z,Tasteful & cheap E. Village room!,Manhattan,Apartment,NA,Private room,10009,1,1,0,109,NA,2015-01-05
+25651173,2015-01-05T00:00:00Z,3 mins from Grand Central!,Queens,Apartment,90,Private room,11101,1,1,10,90,94,2015-01-05
+25645531,2015-01-05T00:00:00Z,"Beautiful Space, 20m from Manhattan",Brooklyn,Apartment,95,Shared room,11226,2,1,11,70,98,2015-01-05
+25634943,2015-01-05T00:00:00Z,Queen Futon In Lux Murray Hill 1BR,Manhattan,Apartment,NA,Shared room,10016,2,1,0,100,NA,2015-01-05
+25666522,2015-01-05T00:00:00Z,2 beds in Midtown Manhattan Midrise,Manhattan,Apartment,95,Shared room,10019,2,1,24,150,97,2015-01-05
+25689357,2015-01-06T00:00:00Z,Brownstone 1BR in Historic Bed-Stuy,Brooklyn,Apartment,95,Entire home/apt,11233,3,1,11,125,98,2015-01-06
+25709393,2015-01-06T00:00:00Z,Huge Studio apartment in Union Sq,Manhattan,Apartment,90,Entire home/apt,10003,1,1,2,180,90,2015-01-06
+25715088,2015-01-06T00:00:00Z,Spacious 2 bedroom in East Village,Manhattan,Apartment,90,Entire home/apt,10003,2,1,4,300,90,2015-01-06
+25698724,2015-01-06T00:00:00Z,Spectacular Chelsea 1 Bedroom,Manhattan,Apartment,95,Entire home/apt,10011,1,1,4,365,95,2015-01-06
+25702643,2015-01-06T00:00:00Z,Luxury 1 bedroom Manhattan,Manhattan,Apartment,NA,Entire home/apt,10011,1,1,0,255,NA,2015-01-06
+25720293,2015-01-06T00:00:00Z,Chelsea Oasis 1 Bedroom Brownstone,Manhattan,Apartment,100,Entire home/apt,10011,1,1,6,698,100,2015-01-06
+25687084,2015-01-06T00:00:00Z,Private Apartment at Midtown East,Manhattan,Apartment,70,Entire home/apt,10017,1,1,8,127,73,2015-01-06
+25680262,2015-01-06T00:00:00Z,Newly Renovated 2 BDR Apt/Manhattan,Manhattan,Apartment,80,Entire home/apt,10019,2,1,20,229,80,2015-01-06
+25697753,2015-01-06T00:00:00Z,Large apartment near Columbia Univ,Manhattan,Apartment,100,Entire home/apt,10025,2,1,1,170,100,2015-01-06
+25667843,2015-01-06T00:00:00Z,"Bright, quiet, convenient, roomy",Manhattan,Apartment,100,Entire home/apt,10128,2,1,1,225,100,2015-01-06
+25719518,2015-01-06T00:00:00Z,Cute and Quaint 1 Bedroom!,Manhattan,Apartment,80,Entire home/apt,10128,2,1,30,145,80,2015-01-06
+25705189,2015-01-06T00:00:00Z,Sunny apartment in the heart of LIC,Queens,Apartment,NA,Entire home/apt,11101,2,1,0,100,NA,2015-01-06
+25700567,2015-01-06T00:00:00Z,Huge 1 BR/ 1BA 15mins to Times Sq.,Queens,Apartment,95,Entire home/apt,11104,2,1,18,89,95,2015-01-06
+25686141,2015-01-06T00:00:00Z,Two Bedroom Apartment,Queens,Apartment,65,Entire home/apt,11417,3,1,7,99,69,2015-01-06
+25681770,2015-01-06T00:00:00Z,"Water view, beach and boardwalk.",Staten Island,Townhouse,NA,Entire home/apt,10305,1,1,0,66,NA,2015-01-06
+25708679,2015-01-06T00:00:00Z,BK bedroom attached to a sunny deck,Brooklyn,Apartment,NA,Private room,11217,1,1,0,100,NA,2015-01-06
+25712247,2015-01-06T00:00:00Z,Sunny room in GPoint/Williamsburg,Brooklyn,Apartment,NA,Private room,11222,1,1,0,140,NA,2015-01-06
+25711730,2015-01-06T00:00:00Z,1 Bedroom in a Williamsburg Loft,Brooklyn,Apartment,NA,Private room,11249,1,1,0,85,NA,2015-01-06
+25697284,2015-01-06T00:00:00Z,Brooklyn Brownstone Room w Backyard,Brooklyn,House,NA,Private room,11216,1,1,0,75,NA,2015-01-06
+25713312,2015-01-06T00:00:00Z,ROOM IN GRAMERCY APARTMENT,Manhattan,Apartment,NA,Private room,10009,1,1,0,175,NA,2015-01-06
+25720330,2015-01-06T00:00:00Z,Private room - Upper West Manhattan,Manhattan,Apartment,100,Private room,10025,1,1,6,90,100,2015-01-06
+25688822,2015-01-06T00:00:00Z,Harlem W.  2blocks of Central Park,Manhattan,Apartment,100,Private room,10026,1,1,2,95,100,2015-01-06
+25715117,2015-01-06T00:00:00Z,Near Subway -15 min to Manhattan,Queens,Apartment,80,Private room,11106,2,1,2,95,80,2015-01-06
+25709508,2015-01-06T00:00:00Z,"Habitacion en Queens, New York",Queens,House,NA,Private room,11421,1,1,0,100,NA,2015-01-06
+25715668,2015-01-06T00:00:00Z,Habitacion privada en Queens New Yo,Queens,House,NA,Private room,11421,1,1,0,90,NA,2015-01-06
+25681770,2015-01-06T00:00:00Z,Beauitful 1 bedrm plus pvt bath,Staten Island,Townhouse,100,Private room,10305,1,1,2,57,100,2015-01-06
+25745295,2015-01-07T00:00:00Z,A special home in Brooklyn,Brooklyn,Apartment,95,Entire home/apt,11205,3,1,26,295,98,2015-01-07
+25762289,2015-01-07T00:00:00Z,Two Bedroom in Brooklyn,Brooklyn,Apartment,NA,Entire home/apt,11222,1,1,0,185,NA,2015-01-07
+25764651,2015-01-07T00:00:00Z,Gorgeous Luxury Apartment,Manhattan,Apartment,NA,Entire home/apt,10001,1,1,0,400,NA,2015-01-07
+25740061,2015-01-07T00:00:00Z,Huge One Bed / Super High Ceilings,Manhattan,Apartment,80,Entire home/apt,10003,1,1,2,350,80,2015-01-07
+25744379,2015-01-07T00:00:00Z,A Beautiful and Sunny Artist's Home,Queens,Apartment,90,Entire home/apt,11102,1,1,4,135,93,2015-01-07
+25767282,2015-01-07T00:00:00Z,The Perfect Modern Forest Hills Apt,Queens,Apartment,85,Entire home/apt,11375,2,1,10,95,89,2015-01-07
+25749723,2015-01-07T00:00:00Z,Huge NYC Studio in Great Area,Queens,House,75,Entire home/apt,11370,2,1,6,70,76,2015-01-07
+25749723,2015-01-07T00:00:00Z,NYC Private Bedroom+Bathroom Combo,Queens,House,70,Entire home/apt,11370,1,1,9,75,73,2015-01-07
+25721143,2015-01-07T00:00:00Z,Cozy room in our new apartment.,Brooklyn,Apartment,95,Private room,11207,1,1,17,59,95,2015-01-07
+25742941,2015-01-07T00:00:00Z,Amazing Williamsburg Apartment,Brooklyn,Apartment,95,Private room,11211,1,1,5,100,96,2015-01-07
+25747916,2015-01-07T00:00:00Z,Beautiful apt. 1 block to the Q.,Brooklyn,Apartment,NA,Private room,11230,1,1,0,100,NA,2015-01-07
+25757883,2015-01-07T00:00:00Z,交通便利で綺麗なブルックリンの個室,Brooklyn,Apartment,95,Private room,11237,1,1,7,45,97,2015-01-07
+25745976,2015-01-07T00:00:00Z,East Village Private Bedroom,Manhattan,Apartment,100,Private room,10009,1,1,1,200,100,2015-01-07
+25745976,2015-01-07T00:00:00Z,Queen Bedroom in East Village,Manhattan,Apartment,90,Private room,10009,1,1,3,85,93,2015-01-07
+25741759,2015-01-07T00:00:00Z,Huge Bedroom Next To Empire State,Manhattan,Apartment,75,Private room,10016,1,1,23,70,79,2015-01-07
+25741759,2015-01-07T00:00:00Z,Sunny Bedroom Next To Empire State,Manhattan,Apartment,80,Private room,10016,1,1,22,60,84,2015-01-07
+25773982,2015-01-07T00:00:00Z,"Enjoy Central Park,",Manhattan,Apartment,95,Private room,10028,1,1,12,78,95,2015-01-07
+25755313,2015-01-07T00:00:00Z,Nice bedroom,Manhattan,Apartment,NA,Private room,10035,1,1,0,69,NA,2015-01-07
+25749723,2015-01-07T00:00:00Z,Awesome room NYC; Special Rate,Queens,House,80,Private room,11370,1,1,9,67,80,2015-01-07
+25749723,2015-01-07T00:00:00Z,Beautiful NYC Private Room :),Queens,House,NA,Private room,11370,1,1,0,70,NA,2015-01-07
+25741759,2015-01-07T00:00:00Z,Futon Next To Empire State&Times Sq,Manhattan,Apartment,80,Shared room,10016,1,1,10,40,80,2015-01-07
+25749723,2015-01-07T00:00:00Z,Livingroom with a bed+dividers,Queens,House,NA,Shared room,11370,1,1,0,30,NA,2015-01-07
+25815971,2015-01-08T00:00:00Z,"Home Away From Home, 2 bedroom apt.",Brooklyn,Apartment,95,Entire home/apt,11226,2,1,8,129,95,2015-01-08
+25815971,2015-01-08T00:00:00Z,"Townhouse Apt, Tasteful, Spacious",Brooklyn,Apartment,90,Entire home/apt,11226,2,1,2,179,90,2015-01-08
+25806489,2015-01-08T00:00:00Z,3 Bdrm Apartment in Heart of LES,Manhattan,Apartment,NA,Entire home/apt,10002,3,1,0,145,NA,2015-01-08
+25796636,2015-01-08T00:00:00Z,1 BR apt Lower East Side,Manhattan,Apartment,90,Entire home/apt,10003,1,1,4,228,90,2015-01-08
+25790915,2015-01-08T00:00:00Z,Bright/Airy 1BR Triplex w/ Balcony,Manhattan,Apartment,100,Entire home/apt,10010,1,1,1,239,100,2015-01-08
+25776194,2015-01-08T00:00:00Z,Huge 2 bedroom apartment in Tribeca,Manhattan,Apartment,NA,Entire home/apt,10013,2,1,0,422,NA,2015-01-08
+25820078,2015-01-08T00:00:00Z,One huge Studio apartment,Manhattan,Apartment,NA,Entire home/apt,10023,1,1,0,225,NA,2015-01-08
+25814298,2015-01-08T00:00:00Z,Lovely Townhouse Duplex w/ Garden,Manhattan,Apartment,NA,Entire home/apt,10024,4,1,0,499,NA,2015-01-08
+25822424,2015-01-08T00:00:00Z,Great Upper West Side Apartment!,Manhattan,Apartment,NA,Entire home/apt,10025,2,1,0,160,NA,2015-01-08
+25820646,2015-01-08T00:00:00Z,Beautiful Central Park 3 Bedrooms,Manhattan,Apartment,80,Entire home/apt,10029,6,1,21,385,81,2015-01-08
+25820646,2015-01-08T00:00:00Z,Gorgeous Central Park Apartment,Manhattan,Apartment,100,Entire home/apt,10029,6,1,4,400,100,2015-01-08
+25774748,2015-01-08T00:00:00Z,汤母小屋,Queens,Apartment,80,Entire home/apt,11354,1,1,12,90,82,2015-01-08
+25821615,2015-01-08T00:00:00Z,1 Room in a 4 Bedroom duplex,Brooklyn,Apartment,NA,Private room,11206,1,1,0,48,NA,2015-01-08
+25807709,2015-01-08T00:00:00Z,Spacious Private Room,Brooklyn,Bed & Breakfast,100,Private room,11210,2,1,6,60,100,2015-01-08
+25816191,2015-01-08T00:00:00Z,Affordable Park View Bedroom,Manhattan,Apartment,90,Private room,10027,1,1,6,70,90,2015-01-08
+25812962,2015-01-08T00:00:00Z,Come to Know New York I,Manhattan,Apartment,100,Private room,10029,1,1,2,55,100,2015-01-08
+25812962,2015-01-08T00:00:00Z,Come to Know New York II,Manhattan,Apartment,NA,Private room,10029,1,1,0,55,NA,2015-01-08
+25804098,2015-01-08T00:00:00Z,"Brownstone Studio in Manhattan, NYC",Manhattan,Apartment,NA,Private room,10033,1,1,0,75,NA,2015-01-08
+25813645,2015-01-08T00:00:00Z,Cozy Room in Bushwick / Ridgewood,Queens,Apartment,NA,Private room,11385,1,1,0,88,NA,2015-01-08
+25821864,2015-01-08T00:00:00Z,PRIVATE SUNNY ROOM IN BUSHWICK!,Queens,Apartment,90,Private room,11385,1,1,3,60,90,2015-01-08
+25804474,2015-01-08T00:00:00Z,NYC stay 10 minutes from Manhattan,Queens,House,NA,Private room,11101,2,1,0,100,NA,2015-01-08
+25774748,2015-01-08T00:00:00Z,汤母小屋,Queens,Apartment,NA,Shared room,11354,1,1,0,85,NA,2015-01-08
+25859072,2015-01-09T00:00:00Z,"Peaceful, clean, bright 1 bedroom",Brooklyn,Apartment,85,Entire home/apt,11205,1,1,3,125,87,2015-01-09
+25830578,2015-01-09T00:00:00Z,Two bed room condo,Brooklyn,Apartment,NA,Entire home/apt,11219,3,1,0,388,NA,2015-01-09
+25846400,2015-01-09T00:00:00Z,Adorable 1 bedroom -Quiet + Quaint!,Brooklyn,Apartment,NA,Entire home/apt,11222,1,1,0,160,NA,2015-01-09
+25852349,2015-01-09T00:00:00Z,Perfect Brooklyn summer apt,Brooklyn,Apartment,100,Entire home/apt,11231,2,1,1,169,100,2015-01-09
+25847311,2015-01-09T00:00:00Z,Large 2 Bdrm in prime UWS location,Manhattan,Apartment,NA,Entire home/apt,10023,5,1,0,374,NA,2015-01-09
+25865233,2015-01-09T00:00:00Z,Beautiful artist space in hipHarlem,Manhattan,Apartment,100,Entire home/apt,10027,3,1,7,115,100,2015-01-09
+25840204,2015-01-09T00:00:00Z,Upper East Side Gem!,Manhattan,Apartment,80,Entire home/apt,10028,2,1,14,120,84,2015-01-09
+25846948,2015-01-09T00:00:00Z,Charming 1 Bed - Midtown East,Manhattan,Apartment,NA,Entire home/apt,10065,1,1,0,140,NA,2015-01-09
+25837009,2015-01-09T00:00:00Z,Surf Central,Queens,Apartment,100,Entire home/apt,11692,2,1,8,150,100,2015-01-09
+25843005,2015-01-09T00:00:00Z,Private Apt 15 min to Central Park,Queens,House,85,Entire home/apt,11106,1,1,39,69,86,2015-01-09
+25843005,2015-01-09T00:00:00Z,Private Studio Apt. by Manhattan,Queens,House,70,Entire home/apt,11106,1,1,2,102,70,2015-01-09
+25831009,2015-01-09T00:00:00Z,NEW aptmt~AMAZING view~BEST donuts!,Brooklyn,Apartment,90,Private room,11216,1,1,15,85,91,2015-01-09
+25830578,2015-01-09T00:00:00Z,Lady's Private room,Brooklyn,Apartment,NA,Private room,11219,1,1,0,98,NA,2015-01-09
+25830578,2015-01-09T00:00:00Z,Private room for girls 女生獨立房間,Brooklyn,Apartment,NA,Private room,11219,1,1,0,88,NA,2015-01-09
+25827033,2015-01-09T00:00:00Z,Airy and Bright BD in LES,Manhattan,Apartment,85,Private room,10002,1,1,6,95,88,2015-01-09
+25858420,2015-01-09T00:00:00Z,*SALE SEP 12-13* Great room on LES,Manhattan,Apartment,90,Private room,10002,1,1,3,129,93,2015-01-09
+25867554,2015-01-09T00:00:00Z,HUGE East Village Room on St. Marks,Manhattan,Apartment,NA,Private room,10009,1,1,0,211,NA,2015-01-09
+25843005,2015-01-09T00:00:00Z,Bright Room 15 mins to Manhattan,Queens,House,85,Private room,11106,1,1,5,65,88,2015-01-09
+25843005,2015-01-09T00:00:00Z,Cozy room 15 minutes to Manhattan,Queens,House,70,Private room,11106,1,1,5,49,72,2015-01-09
+25843005,2015-01-09T00:00:00Z,Cozy room minutes to Manhattan,Queens,House,100,Private room,11106,1,1,2,49,100,2015-01-09
+25843005,2015-01-09T00:00:00Z,Cozy room near Central Park,Queens,House,100,Private room,11106,1,1,1,69,100,2015-01-09
+25843005,2015-01-09T00:00:00Z,Large room 15 minutes to Manhattan,Queens,House,90,Private room,11106,1,1,6,59,93,2015-01-09
+25843005,2015-01-09T00:00:00Z,Spacious &Sunny room near Manhattan,Queens,House,95,Private room,11106,1,1,12,49,95,2015-01-09
+25843005,2015-01-09T00:00:00Z,Sunny room 15 mins to Times Square,Queens,House,100,Private room,11106,1,1,2,65,100,2015-01-09
+25830578,2015-01-09T00:00:00Z,Beds for girls 女生套房,Brooklyn,Apartment,NA,Shared room,11219,1,1,0,48,NA,2015-01-09
+25830578,2015-01-09T00:00:00Z,Girls Rooms 女生新裝修公寓,Brooklyn,Apartment,90,Shared room,11219,1,1,5,28,92,2015-01-09
+25830578,2015-01-09T00:00:00Z,Lady's rooms 女生套房,Brooklyn,Apartment,NA,Shared room,11219,1,1,0,66,NA,2015-01-09
+25830578,2015-01-09T00:00:00Z,Room for girls,Brooklyn,Apartment,NA,Shared room,11219,1,1,0,33,NA,2015-01-09
+25895198,2015-01-10T00:00:00Z,"Modern Apt, Terrace, Great Location",Brooklyn,Apartment,NA,Entire home/apt,11211,2,1,0,130,NA,2015-01-10
+25894037,2015-01-10T00:00:00Z,Large 1 Bedroom in Brooklyn,Brooklyn,Apartment,NA,Entire home/apt,11216,1,1,0,125,NA,2015-01-10
+25911776,2015-01-10T00:00:00Z,"Comfortable Studio, Hip Brooklyn",Brooklyn,Apartment,100,Entire home/apt,11238,2,1,2,120,100,2015-01-10
+25915566,2015-01-10T00:00:00Z,Sunny&Peaceful 1 BR- Clinton Hill,Brooklyn,Apartment,95,Entire home/apt,11238,1,1,8,120,98,2015-01-10
+25870353,2015-01-10T00:00:00Z,Gramercy Park View Pied A Terre,Manhattan,Apartment,NA,Entire home/apt,10003,1,1,0,200,NA,2015-01-10
+25880133,2015-01-10T00:00:00Z,Studio -Heart of Upper West Side,Manhattan,Apartment,95,Entire home/apt,10023,1,1,14,150,96,2015-01-10
+25880133,2015-01-10T00:00:00Z,Two-bedroom apt (heart of UWS),Manhattan,Apartment,100,Entire home/apt,10023,2,1,1,300,100,2015-01-10
+25881276,2015-01-10T00:00:00Z,Charming Studio Apartment,Manhattan,Apartment,90,Entire home/apt,10024,1,1,7,125,94,2015-01-10
+25881276,2015-01-10T00:00:00Z,Fabulous Apartment in NYC,Manhattan,Apartment,NA,Entire home/apt,10024,2,1,0,250,NA,2015-01-10
+25912269,2015-01-10T00:00:00Z,Cozy Studio in Prime Location,Manhattan,Apartment,NA,Entire home/apt,10031,1,1,0,108,NA,2015-01-10
+25871774,2015-01-10T00:00:00Z,Location location location!!,Manhattan,Apartment,90,Entire home/apt,10038,2,1,9,432,90,2015-01-10
+25873608,2015-01-10T00:00:00Z,Charming Brooklyn Room,Brooklyn,Apartment,NA,Private room,11211,1,1,0,68,NA,2015-01-10
+25910890,2015-01-10T00:00:00Z,Cozy room in Astoria,Queens,Apartment,100,Private room,11103,1,1,10,75,100,2015-01-10
+25881456,2015-01-10T00:00:00Z,"Cute, Cozy, and Comfy NYC",Queens,Apartment,NA,Private room,11379,1,1,0,75,NA,2015-01-10
+25915648,2015-01-10T00:00:00Z,"近地铁及市中心,交通方便,干净,明亮,到曼哈頓只要30分鐘",Queens,Bed & Breakfast,80,Private room,11355,1,1,7,40,80,2015-01-10
+25915648,2015-01-10T00:00:00Z,"近地铁及市中心,干净 NYC 30 min to Manhattan",Queens,Bed & Breakfast,80,Private room,11355,1,1,19,32,84,2015-01-10
+25945780,2015-01-11T00:00:00Z,3 BR+ Renovated Duplex w/ Garden,Brooklyn,Apartment,100,Entire home/apt,11215,7,1,1,249,100,2015-01-11
+25963759,2015-01-11T00:00:00Z,Beautiful top floor 2-bedroom,Brooklyn,Apartment,NA,Entire home/apt,11215,2,1,0,140,NA,2015-01-11
+25961109,2015-01-11T00:00:00Z,CHARMING & ELEGANT IN NYC- SOHO,Manhattan,Apartment,100,Entire home/apt,10003,2,1,3,205,100,2015-01-11
+25961109,2015-01-11T00:00:00Z,Elegance in Soho NYC,Manhattan,Apartment,NA,Entire home/apt,10003,2,1,0,205,NA,2015-01-11
+25961109,2015-01-11T00:00:00Z,Tranquil Elegance in SOHO,Manhattan,Apartment,NA,Entire home/apt,10003,2,1,0,198,NA,2015-01-11
+25957655,2015-01-11T00:00:00Z,Cozy East Village 1bd,Manhattan,Apartment,NA,Entire home/apt,10009,2,1,0,150,NA,2015-01-11
+25950194,2015-01-11T00:00:00Z,Beautiful modern 1-bed in Chelsea!,Manhattan,Apartment,NA,Entire home/apt,10011,1,1,0,160,NA,2015-01-11
+25963759,2015-01-11T00:00:00Z,1 bedroom in Park Slope apartment,Brooklyn,Apartment,90,Private room,11215,1,1,2,70,90,2015-01-11
+25960415,2015-01-11T00:00:00Z,Clean Room in Brooklyn,Brooklyn,Apartment,60,Private room,11219,2,1,2,35,60,2015-01-11
+25960415,2015-01-11T00:00:00Z,Clean Room in Safe Neighborhood,Brooklyn,Apartment,NA,Private room,11219,1,1,0,30,NA,2015-01-11
+25961456,2015-01-11T00:00:00Z,Private Room w/ Bath and Balcony,Brooklyn,Apartment,NA,Private room,11238,1,1,0,60,NA,2015-01-11
+25955918,2015-01-11T00:00:00Z,1 Qu Bed in 2BR/1BA Lower East Side,Manhattan,Apartment,80,Private room,10002,1,1,45,119,80,2015-01-11
+25970573,2015-01-11T00:00:00Z,Big Private Room In Chelsea,Manhattan,Apartment,80,Private room,10011,1,1,1,70,80,2015-01-11
+25946990,2015-01-11T00:00:00Z,Washington Heights Apartment,Manhattan,Apartment,NA,Private room,10040,1,1,0,60,NA,2015-01-11
+25971865,2015-01-11T00:00:00Z,Astoria private room for short stay,Queens,Apartment,NA,Private room,11106,1,1,0,70,NA,2015-01-11
+25968714,2015-01-11T00:00:00Z,Studio sized private room with Bath,Queens,House,90,Private room,11372,2,1,5,100,92,2015-01-11
+25992875,2015-01-12T00:00:00Z,Trendy Brooklyn Penthouse,Brooklyn,Apartment,85,Entire home/apt,11205,2,1,3,215,87,2015-01-12
+26024433,2015-01-12T00:00:00Z,Charming 1BR near Union Square,Manhattan,Apartment,85,Entire home/apt,10003,2,1,12,175,87,2015-01-12
+25974544,2015-01-12T00:00:00Z,GORGEOUS 1BR IN MIDTOWN 1/15-1/19,Manhattan,Apartment,NA,Entire home/apt,10019,1,1,0,350,NA,2015-01-12
+26000391,2015-01-12T00:00:00Z,Spacious 2 Bedroom in Manhattan,Manhattan,Apartment,NA,Entire home/apt,10029,1,1,0,100,NA,2015-01-12
+25996489,2015-01-12T00:00:00Z,Beautiful 1 Bedroom Apt in HK,Manhattan,Apartment,100,Entire home/apt,10036,1,1,1,155,100,2015-01-12
+26005487,2015-01-12T00:00:00Z,2BR-New Renovation- Time Square,Manhattan,Apartment,80,Entire home/apt,10036,2,1,2,99,80,2015-01-12
+26005487,2015-01-12T00:00:00Z,2BR/ Brand New/ Time Square F,Manhattan,Apartment,100,Entire home/apt,10036,2,1,1,135,100,2015-01-12
+26005487,2015-01-12T00:00:00Z,Amazing Modern 1BR Time Square,Manhattan,Apartment,NA,Entire home/apt,10036,2,1,0,100,NA,2015-01-12
+25993522,2015-01-12T00:00:00Z,New 1bd Garden Apt in Astoria,Queens,Apartment,100,Entire home/apt,11102,2,1,6,120,100,2015-01-12
+26003292,2015-01-12T00:00:00Z,1bd in a sunny 2 bd Ft. Greene Apt,Brooklyn,Apartment,100,Private room,11205,1,1,2,70,100,2015-01-12
+26021086,2015-01-12T00:00:00Z,Room with private bathroom,Manhattan,Apartment,95,Private room,10002,1,1,14,170,97,2015-01-12
+26003882,2015-01-12T00:00:00Z,哥大附近独立房间即日起出租，价格超低，长租者优惠多多,Manhattan,Apartment,40,Private room,10027,1,1,1,30,40,2015-01-12
+26005018,2015-01-12T00:00:00Z,East River view,Manhattan,Apartment,95,Private room,10044,1,1,16,70,99,2015-01-12
+26027833,2015-01-12T00:00:00Z,"Room in Astoria, 5 min",Queens,House,NA,Private room,11105,1,1,0,40,NA,2015-01-12
+26076045,2015-01-13T00:00:00Z,Luxurious LES/Nolita Apartment,Manhattan,Apartment,85,Entire home/apt,10002,3,1,4,250,87,2015-01-13
+26061742,2015-01-13T00:00:00Z,Sunny East Village 1 Bedroom,Manhattan,Apartment,80,Entire home/apt,10009,2,1,1,180,80,2015-01-13
+26076022,2015-01-13T00:00:00Z,"East Village, Studio Apartment.",Manhattan,Apartment,90,Entire home/apt,10009,1,1,8,175,90,2015-01-13
+26067136,2015-01-13T00:00:00Z,West Village Designer Apartment,Manhattan,Apartment,NA,Entire home/apt,10014,1,1,0,195,NA,2015-01-13
+26058744,2015-01-13T00:00:00Z,Spacious Downtown Apt,Manhattan,Apartment,NA,Entire home/apt,10038,2,1,0,250,NA,2015-01-13
+26079021,2015-01-13T00:00:00Z,Cozy 1br Apartment Upper East Side,Manhattan,Apartment,90,Entire home/apt,10065,1,1,12,199,91,2015-01-13
+26031034,2015-01-13T00:00:00Z,Historic Upper West Side Townhouse,Manhattan,House,100,Entire home/apt,10025,6,1,5,695,100,2015-01-13
+26080688,2015-01-13T00:00:00Z,Best loft studio in NYC for 1-2 ppl,Manhattan,Loft,85,Entire home/apt,10003,1,1,3,180,87,2015-01-13
+26076893,2015-01-13T00:00:00Z,Cozy little space,Bronx,Apartment,70,Private room,10456,1,1,10,35,71,2015-01-13
+26076893,2015-01-13T00:00:00Z,Very comfy room in the bx,Bronx,Apartment,90,Private room,10456,1,1,10,45,93,2015-01-13
+26083301,2015-01-13T00:00:00Z,"$35/day, Ava. 9/15 in Sunset Park",Brooklyn,Apartment,NA,Private room,11232,1,1,2,35,NA,2015-01-13
+26080800,2015-01-13T00:00:00Z,Huge Private Room w/bath and deck!,Brooklyn,Apartment,90,Private room,11249,1,1,9,95,93,2015-01-13
+26054825,2015-01-13T00:00:00Z,cozy bedroom in heart of e. village,Manhattan,Apartment,90,Private room,10009,1,1,6,85,90,2015-01-13
+26058744,2015-01-13T00:00:00Z,Private Rm in Spacious Downtown Apt,Manhattan,Apartment,100,Private room,10038,1,1,1,80,100,2015-01-13
+26068725,2015-01-13T00:00:00Z,Shared Room in Union Square,Manhattan,Apartment,NA,Shared room,10003,1,1,0,250,NA,2015-01-13
+26076022,2015-01-13T00:00:00Z,"Airbed, East Village, Studio Apt.",Manhattan,Apartment,100,Shared room,10009,1,1,4,56,100,2015-01-13
+26066036,2015-01-13T00:00:00Z,Studio in Irobound,Manhattan,Loft,70,Shared room,7105,1,1,5,50,73,2015-01-13
+26100862,2015-01-14T00:00:00Z,"Railroad Apt in Greenpoint, BKLYN",Brooklyn,Apartment,NA,Entire home/apt,11222,2,1,0,90,NA,2015-01-14
+26134830,2015-01-14T00:00:00Z,Charming 2BR Brownstone near subway,Brooklyn,Apartment,95,Entire home/apt,11233,4,1,23,120,95,2015-01-14
+26130438,2015-01-14T00:00:00Z,Greenwich Village one bed/priv deck,Manhattan,Apartment,NA,Entire home/apt,10014,2,1,0,160,NA,2015-01-14
+26117126,2015-01-14T00:00:00Z,1 BR APT in East Harlem- Madison Av,Manhattan,Apartment,NA,Entire home/apt,10035,1,1,0,125,NA,2015-01-14
+26124805,2015-01-14T00:00:00Z,1BR with backyard in Williamsburg!,Brooklyn,Apartment,NA,Private room,11211,1,1,0,90,NA,2015-01-14
+26126577,2015-01-14T00:00:00Z,Fun artist's room for ext July 4th,Brooklyn,Apartment,NA,Private room,11221,1,1,0,120,NA,2015-01-14
+26098783,2015-01-14T00:00:00Z,Private Cozy Bedroom in Brooklyn,Brooklyn,Apartment,95,Private room,11232,1,1,10,75,96,2015-01-14
+26110270,2015-01-14T00:00:00Z,Explore Brooklyn New york,Brooklyn,Apartment,NA,Private room,11233,1,1,0,75,NA,2015-01-14
+26089887,2015-01-14T00:00:00Z,Comfy Room in the East Village,Manhattan,Apartment,90,Private room,10009,1,1,5,120,90,2015-01-14
+26136707,2015-01-14T00:00:00Z,The New Amsterdam near Columbia,Manhattan,Apartment,90,Private room,10033,1,1,3,59,93,2015-01-14
+26113490,2015-01-14T00:00:00Z,Cozy Apartment for Young Travelers!,Manhattan,Apartment,95,Shared room,10028,1,1,10,75,98,2015-01-14
+26180217,2015-01-15T00:00:00Z,Big and cozy 2br apt Midtown,Manhattan,Apartment,80,Entire home/apt,10016,4,1,13,278,80,2015-01-15
+26180217,2015-01-15T00:00:00Z,Comfy 2br midtown west.,Manhattan,Apartment,100,Entire home/apt,10019,2,1,1,200,100,2015-01-15
+26180217,2015-01-15T00:00:00Z,Cozy studio on Theater's District,Manhattan,Apartment,85,Entire home/apt,10019,1,1,5,200,88,2015-01-15
+26180217,2015-01-15T00:00:00Z,Adorable Studio midtown West,Manhattan,Apartment,90,Entire home/apt,10022,1,1,7,200,90,2015-01-15
+26180217,2015-01-15T00:00:00Z,The apartment you are looking for!,Manhattan,Apartment,100,Entire home/apt,10036,1,1,1,220,100,2015-01-15
+26162659,2015-01-15T00:00:00Z,Lovely Big Bedroom in Clinton Hill,Brooklyn,Apartment,NA,Private room,11205,1,1,0,70,NA,2015-01-15
+26176627,2015-01-15T00:00:00Z,Cozy private bedroom in duplex,Brooklyn,Apartment,NA,Private room,11206,1,1,0,55,NA,2015-01-15
+26164700,2015-01-15T00:00:00Z,Humble 1BR in Bushwick,Brooklyn,Apartment,NA,Private room,11237,NA,1,0,50,NA,2015-01-15
+26175870,2015-01-15T00:00:00Z,Brand New Downtown NYC Penthouse!!,Manhattan,Apartment,100,Private room,10002,1,1,1,167,100,2015-01-15
+26178075,2015-01-15T00:00:00Z,"Private 1 room, Free Ferry to NYC",Staten Island,House,NA,Private room,10304,1,1,0,60,NA,2015-01-15
+26228847,2015-01-16T00:00:00Z,"Cozy. Comfy, Sunfilled 1 Bedroom",Brooklyn,Apartment,90,Entire home/apt,11205,1,1,15,150,93,2015-01-16
+26225145,2015-01-16T00:00:00Z,Historic Garden Apartment,Brooklyn,Apartment,80,Entire home/apt,11215,2,1,1,250,80,2015-01-16
+26228337,2015-01-16T00:00:00Z,Spacious brownstone apt in Park Sl,Brooklyn,Apartment,NA,Entire home/apt,11217,2,1,0,125,NA,2015-01-16
+26221060,2015-01-16T00:00:00Z,Kings hwy! sunny one bedroom!,Brooklyn,Apartment,NA,Entire home/apt,11230,1,1,0,85,NA,2015-01-16
+26208729,2015-01-16T00:00:00Z,BOHEMIAN OASIS IN THE EAST VILLAGE,Manhattan,Apartment,100,Entire home/apt,10003,1,1,11,125,100,2015-01-16
+26189870,2015-01-16T00:00:00Z,"Modern Sophistication, Views",Manhattan,Apartment,100,Entire home/apt,10023,1,1,1,300,100,2015-01-16
+26224790,2015-01-16T00:00:00Z,Rest after NYC fun in HUGE 1BD Room,Manhattan,Apartment,NA,Entire home/apt,10023,2,1,0,135,NA,2015-01-16
+26201519,2015-01-16T00:00:00Z,Cozy Room in Beautiful Duplex,Brooklyn,Apartment,NA,Private room,11216,1,1,0,40,NA,2015-01-16
+26193636,2015-01-16T00:00:00Z,Private room in 2 bedroom apartment,Manhattan,Apartment,NA,Private room,10002,1,1,0,200,NA,2015-01-16
+26216172,2015-01-16T00:00:00Z,Furnished bedroom in Central Harlem,Manhattan,Apartment,NA,Private room,10030,1,1,0,70,NA,2015-01-16
+26259219,2015-01-17T00:00:00Z,Exquisite Duplex Brownstone,Brooklyn,Apartment,NA,Entire home/apt,11221,2,1,0,200,NA,2015-01-17
+26264587,2015-01-17T00:00:00Z,Experience the LES one flight up.,Manhattan,Apartment,95,Entire home/apt,10002,1,1,10,145,96,2015-01-17
+26242167,2015-01-17T00:00:00Z,GORGEOUS 2br apartment Midtown East,Manhattan,Apartment,90,Entire home/apt,10016,4,1,2,278,90,2015-01-17
+26242167,2015-01-17T00:00:00Z,2 bedrooms-Times Square and Central,Manhattan,Apartment,100,Entire home/apt,10019,2,1,1,200,100,2015-01-17
+26242167,2015-01-17T00:00:00Z,Adorable Studio midtown West,Manhattan,Apartment,80,Entire home/apt,10019,1,1,10,200,80,2015-01-17
+26242167,2015-01-17T00:00:00Z,Beautiful Studio Midtown West,Manhattan,Apartment,95,Entire home/apt,10019,1,1,8,200,97,2015-01-17
+26270573,2015-01-17T00:00:00Z,"Big 2 BR+1 Futon, Brick,Central Pk",Manhattan,Apartment,100,Entire home/apt,10028,2,1,3,215,100,2015-01-17
+26242167,2015-01-17T00:00:00Z,Lovely 1 bedroom apart Midtown West,Manhattan,Apartment,85,Entire home/apt,10036,1,1,5,200,88,2015-01-17
+26270573,2015-01-17T00:00:00Z,"Sunny & Tall 1 BR, Central Pk,Train",Manhattan,Apartment,90,Entire home/apt,10075,1,1,4,205,90,2015-01-17
+26258907,2015-01-17T00:00:00Z,Luxury Private Bedroom and Bathroom,Brooklyn,Apartment,NA,Private room,11211,1,1,0,75,NA,2015-01-17
+26259219,2015-01-17T00:00:00Z,Private Room in Stunning Brownstone,Brooklyn,Apartment,80,Private room,11221,1,1,1,100,80,2015-01-17
+26260328,2015-01-17T00:00:00Z,Huge Sunny Private Room in Bushwick,Brooklyn,Apartment,NA,Private room,11237,1,1,0,45,NA,2015-01-17
+26251553,2015-01-17T00:00:00Z,NY Luxury High End Accommodations,Manhattan,Loft,NA,Shared room,10019,2,1,0,525,NA,2015-01-17
+26323203,2015-01-18T00:00:00Z,Amazing Base to Explore NYC.,Manhattan,Apartment,NA,Entire home/apt,10003,1,1,0,175,NA,2015-01-18
+26305194,2015-01-18T00:00:00Z,2BD meatpacking/chelsea classic!,Manhattan,Apartment,NA,Entire home/apt,10011,2,1,0,200,NA,2015-01-18
+26327317,2015-01-18T00:00:00Z,Charming West Village w/ Terrace,Manhattan,Apartment,NA,Entire home/apt,10012,1,1,0,275,NA,2015-01-18
+26330180,2015-01-18T00:00:00Z,Spacious & Sunny in West Village,Manhattan,Apartment,90,Entire home/apt,10014,1,1,4,125,90,2015-01-18
+26318463,2015-01-18T00:00:00Z,"Manhattan Best Location, big apto",Manhattan,Apartment,95,Entire home/apt,10025,2,1,14,234,97,2015-01-18
+26328221,2015-01-18T00:00:00Z,Beautiful Spacious Uptown Apartment,Manhattan,Apartment,100,Entire home/apt,10031,2,1,7,150,100,2015-01-18
+26305194,2015-01-18T00:00:00Z,Private room in Chelsea classic!,Manhattan,Apartment,100,Private room,10011,1,1,3,110,100,2015-01-18
+26278289,2015-01-18T00:00:00Z,Spacious Master Bedroom w/ rooftop,Manhattan,Apartment,NA,Private room,10016,1,1,0,105,NA,2015-01-18
+26297795,2015-01-18T00:00:00Z,Apt. with yard near Central Park,Manhattan,Apartment,NA,Private room,10029,1,1,0,75,NA,2015-01-18
+26328221,2015-01-18T00:00:00Z,"Spacious Room, Beautiful Uptown Apt",Manhattan,Apartment,NA,Private room,10031,1,1,0,90,NA,2015-01-18
+26301893,2015-01-18T00:00:00Z,Comfy Bedroom quite neighborhood,Queens,House,NA,Private room,11365,2,1,0,80,NA,2015-01-18
+26326122,2015-01-18T00:00:00Z,"Cozy room from New York, NY, JFK #1",Queens,House,95,Private room,11416,1,1,61,55,98,2015-01-18
+26326122,2015-01-18T00:00:00Z,Spacious room NYC Rm 2 JFK & Subway,Queens,House,95,Private room,11416,1,1,27,55,98,2015-01-18
+26277486,2015-01-18T00:00:00Z,Nice apt beside Columbia university,Manhattan,Apartment,100,Shared room,10027,1,1,1,35,100,2015-01-18
+26360956,2015-01-19T00:00:00Z,Charming brownstone in Cobble Hill,Brooklyn,Apartment,90,Entire home/apt,11201,2,1,6,160,93,2015-01-19
+26362901,2015-01-19T00:00:00Z,Top Floor Williamsburg Beauty,Brooklyn,Apartment,95,Entire home/apt,11211,2,1,9,200,98,2015-01-19
+26350304,2015-01-19T00:00:00Z,1BR LARGE FORT GREENE APT,Brooklyn,Apartment,NA,Entire home/apt,11217,1,1,0,100,NA,2015-01-19
+26357157,2015-01-19T00:00:00Z,Park Slope Private Garden & Laundry,Brooklyn,Apartment,95,Entire home/apt,11217,2,1,29,210,97,2015-01-19
+26382037,2015-01-19T00:00:00Z,Amazing Williamsburg Studio,Brooklyn,Apartment,95,Entire home/apt,11249,1,1,6,285,97,2015-01-19
+26383655,2015-01-19T00:00:00Z,3 Bdrm on Mulberry in Nolita & SoHo,Manhattan,Apartment,NA,Entire home/apt,10012,4,1,0,475,NA,2015-01-19
+26360940,2015-01-19T00:00:00Z,Charming West Village oasis,Manhattan,Apartment,90,Entire home/apt,10014,1,1,6,215,93,2015-01-19
+26383567,2015-01-19T00:00:00Z,Sun Filled West Village 2 bed+loft,Manhattan,Apartment,85,Entire home/apt,10014,4,1,29,540,89,2015-01-19
+26377329,2015-01-19T00:00:00Z,Contemporary 1 Bedroom in Midtown,Manhattan,Apartment,100,Entire home/apt,10016,2,1,1,200,100,2015-01-19
+26334e3,2015-01-19T00:00:00Z,Large Studio,Manhattan,Apartment,85,Entire home/apt,10017,2,1,4,140,85,2015-01-19
+26358061,2015-01-19T00:00:00Z,"Large, Sunny, 1 Bedroom Rental",Manhattan,Apartment,NA,Entire home/apt,10021,2,1,0,150,NA,2015-01-19
+26353602,2015-01-19T00:00:00Z,Jr. 1br apt. 35 mins. from Midtown,Manhattan,Apartment,100,Entire home/apt,10031,1,1,1,100,100,2015-01-19
+26388856,2015-01-19T00:00:00Z,Cozy 1BD - prime astoria location!,Queens,Apartment,100,Entire home/apt,11106,1,1,4,135,100,2015-01-19
+26382036,2015-01-19T00:00:00Z,"Close to subway, Manhattan, & shops",Queens,Apartment,100,Entire home/apt,11373,1,1,2,110,100,2015-01-19
+26377263,2015-01-19T00:00:00Z,Home 4 Medical Professionals-BklynH,Brooklyn,Apartment,NA,Private room,11201,1,1,0,50,NA,2015-01-19
+26377263,2015-01-19T00:00:00Z,Home 4 Medical Professionals-Dwnst8,Brooklyn,Apartment,NA,Private room,11203,1,1,0,45,NA,2015-01-19
+26377263,2015-01-19T00:00:00Z,Home 4 Medical Professionals-KingsC,Brooklyn,Apartment,NA,Private room,11203,1,1,0,50,NA,2015-01-19
+26377263,2015-01-19T00:00:00Z,Home 4 Medical Professionals-Kngbr1,Brooklyn,Apartment,NA,Private room,11203,1,1,0,50,NA,2015-01-19
+26377263,2015-01-19T00:00:00Z,Home 4 Medical Professionals-Kngbr2,Brooklyn,Apartment,NA,Private room,11203,1,1,0,50,NA,2015-01-19
+26377263,2015-01-19T00:00:00Z,Home 4 Medical Professionals-Kngbr3,Brooklyn,Apartment,NA,Private room,11203,1,1,0,50,NA,2015-01-19
+26377263,2015-01-19T00:00:00Z,Home 4 Medical Professionals-Kngbr4,Brooklyn,Apartment,NA,Private room,11203,1,1,0,40,NA,2015-01-19
+26377263,2015-01-19T00:00:00Z,Home 4 Medical Professionals-Kngbr5,Brooklyn,Apartment,60,Private room,11203,1,1,2,50,60,2015-01-19
+26377263,2015-01-19T00:00:00Z,Home 4 Medical Professionals-Kngbr6,Brooklyn,Apartment,NA,Private room,11203,1,1,0,45,NA,2015-01-19
+26364541,2015-01-19T00:00:00Z,Large Room in Brooklyn w/ Office,Brooklyn,Apartment,60,Private room,11206,1,1,1,49,60,2015-01-19
+26377263,2015-01-19T00:00:00Z,Home 4 Medical Professionals-Brkdle,Brooklyn,Apartment,NA,Private room,11212,1,1,0,45,NA,2015-01-19
+26377263,2015-01-19T00:00:00Z,Home 4 Medical Professionals-Intrf8,Brooklyn,Apartment,NA,Private room,11213,1,1,0,50,NA,2015-01-19
+26377263,2015-01-19T00:00:00Z,Home 4 Medical Professionals-Mthdst,Brooklyn,Apartment,NA,Private room,11215,1,1,0,50,NA,2015-01-19
+26377263,2015-01-19T00:00:00Z,Home 4 Medical Professionals-MAIM0,Brooklyn,Apartment,NA,Private room,11219,1,1,0,50,NA,2015-01-19
+26377263,2015-01-19T00:00:00Z,Home 4 Medical Professionals-Lthern,Brooklyn,Apartment,NA,Private room,11220,1,1,0,50,NA,2015-01-19
+26377263,2015-01-19T00:00:00Z,Home 4 Medical Professionals-ConeyI,Brooklyn,Apartment,NA,Private room,11235,1,1,0,40,NA,2015-01-19
+26377263,2015-01-19T00:00:00Z,Home 4 Medical Professionals-Wykof1,Brooklyn,Apartment,NA,Private room,11237,1,1,0,50,NA,2015-01-19
+26377263,2015-01-19T00:00:00Z,Home 4 Medical Professionals-Wykof2,Brooklyn,Apartment,NA,Private room,11237,1,1,0,50,NA,2015-01-19
+26377263,2015-01-19T00:00:00Z,Home 4 Medical Professionals-Wykof3,Brooklyn,Apartment,NA,Private room,11237,1,1,0,50,NA,2015-01-19
+26377263,2015-01-19T00:00:00Z,Home 4 Medical Professionals-Wykof4,Brooklyn,Apartment,NA,Private room,11237,1,1,0,50,NA,2015-01-19
+26377263,2015-01-19T00:00:00Z,Home 4 Medical Professionals-Wykof5,Brooklyn,Apartment,NA,Private room,11237,1,1,0,50,NA,2015-01-19
+26377263,2015-01-19T00:00:00Z,Home 4 Medical Professionals-Wykof6,Brooklyn,Apartment,100,Private room,11237,1,1,1,50,100,2015-01-19
+26377263,2015-01-19T00:00:00Z,Home 4 Medical Professionals-Wykof7,Brooklyn,Apartment,NA,Private room,11237,1,1,0,50,NA,2015-01-19
+26377263,2015-01-19T00:00:00Z,Home 4 Medical Professionals-Wykof8,Brooklyn,Apartment,NA,Private room,11237,1,1,0,50,NA,2015-01-19
+26377263,2015-01-19T00:00:00Z,Home 4 Medical Professionals-Wykof9,Brooklyn,Apartment,NA,Private room,11237,1,1,0,50,NA,2015-01-19
+26377263,2015-01-19T00:00:00Z,Home4 Medical Professionals-Wykof10,Brooklyn,Apartment,NA,Private room,11237,1,1,0,50,NA,2015-01-19
+26361207,2015-01-19T00:00:00Z,"Sugarhill, Harlem",Manhattan,Apartment,NA,Private room,10039,1,1,0,85,NA,2015-01-19
+26377263,2015-01-19T00:00:00Z,Home 4 Medical Professionals- FarRk,Queens,Apartment,NA,Private room,11691,1,1,0,40,NA,2015-01-19
+26377263,2015-01-19T00:00:00Z,Home 4 Medical Professionals-FarRk1,Queens,Apartment,100,Private room,11691,1,1,2,40,100,2015-01-19
+26377263,2015-01-19T00:00:00Z,Home 4 Medical Professionals-FarRk2,Queens,Apartment,NA,Private room,11691,1,1,0,40,NA,2015-01-19
+26377263,2015-01-19T00:00:00Z,Home 4 Medical Professionals-FarRk3,Queens,Apartment,100,Private room,11691,1,1,1,40,100,2015-01-19
+26377263,2015-01-19T00:00:00Z,Home 4 Medical Professionals-FarRk4,Queens,Apartment,100,Private room,11691,1,1,1,40,100,2015-01-19
+26359114,2015-01-19T00:00:00Z,Cozy room in Astoria Queens,Queens,House,NA,Private room,11102,1,1,0,100,NA,2015-01-19
+26388084,2015-01-19T00:00:00Z,Large attic room. 20 min to city!!!,Queens,House,NA,Private room,11377,1,1,0,75,NA,2015-01-19
+26388084,2015-01-19T00:00:00Z,"Tasteful, sunny room, real twin bed",Queens,House,100,Private room,11377,1,1,1,60,100,2015-01-19
+26440427,2015-01-20T00:00:00Z,CHIC 2 Bdrm in Classic Brownstone,Brooklyn,Apartment,95,Entire home/apt,NA,4,1,4,145,95,2015-01-20
+26433326,2015-01-20T00:00:00Z,Large williamsburg apt. Sleeps 4.,Brooklyn,Apartment,NA,Entire home/apt,11206,2,1,0,140,NA,2015-01-20
+26392130,2015-01-20T00:00:00Z,Apartment in HEART of WILLIAMSBURG,Brooklyn,Apartment,100,Entire home/apt,11211,1,1,7,140,100,2015-01-20
+26392130,2015-01-20T00:00:00Z,Nice apt in Williamsburg,Brooklyn,Apartment,100,Entire home/apt,11211,1,1,2,135,100,2015-01-20
+26416101,2015-01-20T00:00:00Z,"Cozy, Quiet Apt in Prime Location!",Brooklyn,Apartment,NA,Entire home/apt,11211,1,1,0,150,NA,2015-01-20
+26415767,2015-01-20T00:00:00Z,Duplex Suite Sleeps up to 10,Brooklyn,Apartment,NA,Entire home/apt,11215,5,1,0,300,NA,2015-01-20
+26415767,2015-01-20T00:00:00Z,Metro - Great Roof Deck Sleep 6,Brooklyn,Apartment,NA,Entire home/apt,11215,3,1,0,250,NA,2015-01-20
+26415767,2015-01-20T00:00:00Z,Urban - Great Roof DeckSleeps 6,Brooklyn,Apartment,NA,Entire home/apt,11215,3,1,0,250,NA,2015-01-20
+26410340,2015-01-20T00:00:00Z,Spacious Studio w/ Backyard,Brooklyn,Apartment,85,Entire home/apt,11221,2,1,35,98,87,2015-01-20
+26438287,2015-01-20T00:00:00Z,Modern Loft Williamsburg,Brooklyn,Apartment,NA,Entire home/apt,11249,2,1,0,450,NA,2015-01-20
+26425904,2015-01-20T00:00:00Z,Charming West Village studio,Manhattan,Apartment,90,Entire home/apt,10014,1,1,5,225,90,2015-01-20
+26416391,2015-01-20T00:00:00Z,2 Bed 2Bath w/ Backyard HEART OF NY,Manhattan,Apartment,NA,Entire home/apt,10018,4,1,1,298,NA,2015-01-20
+26410032,2015-01-20T00:00:00Z,2 bedroom great for families,Manhattan,Apartment,100,Entire home/apt,10038,2,1,1,250,100,2015-01-20
+26413974,2015-01-20T00:00:00Z,"Stunning View, Bright & Spacious",Manhattan,Apartment,95,Entire home/apt,10128,1,1,11,200,98,2015-01-20
+26416391,2015-01-20T00:00:00Z,Event/Apartment Space HEART OF CITY,Manhattan,Loft,NA,Entire home/apt,10001,3,1,1,750,NA,2015-01-20
+26441790,2015-01-20T00:00:00Z,Comfy & Close to Downtown Manhattan,Brooklyn,Apartment,NA,Private room,11206,1,1,0,55,NA,2015-01-20
+26436212,2015-01-20T00:00:00Z,Bushwick Apartment,Brooklyn,Apartment,90,Private room,11221,1,1,2,65,90,2015-01-20
+26439972,2015-01-20T00:00:00Z,Amazing space !,Brooklyn,Apartment,NA,Private room,11223,1,1,0,60,NA,2015-01-20
+26428083,2015-01-20T00:00:00Z,GREAT MODERN BROOKLYN CONDO APT,Brooklyn,Apartment,NA,Private room,11225,1,1,0,100,NA,2015-01-20
+26440049,2015-01-20T00:00:00Z,Serenity in the Heart of Bushwick,Brooklyn,Apartment,100,Private room,11237,1,1,2,80,100,2015-01-20
+26414016,2015-01-20T00:00:00Z,The very heart of Williamsburg,Brooklyn,Apartment,100,Private room,11249,1,1,1,89,100,2015-01-20
+26389845,2015-01-20T00:00:00Z,"Welcoming, Clean, Cheap on St Marks",Manhattan,Apartment,95,Private room,10009,1,1,7,95,97,2015-01-20
+26427866,2015-01-20T00:00:00Z,Spacious Private Room & Full Bath,Manhattan,Apartment,85,Private room,10128,1,1,18,150,88,2015-01-20
+26414694,2015-01-20T00:00:00Z,One stop away from Grand Central!,Queens,Apartment,100,Private room,11101,1,1,13,95,100,2015-01-20
+26405093,2015-01-20T00:00:00Z,Room in apartment loft,Staten Island,Apartment,NA,Private room,10301,1,1,0,85,NA,2015-01-20
+26494424,2015-01-21T00:00:00Z,Modern 2 BR || Bedstuy Chic,Brooklyn,Apartment,65,Entire home/apt,11216,4,1,20,150,68,2015-01-21
+26500272,2015-01-21T00:00:00Z,"Fort Greene, Brooklyn NY family apt",Brooklyn,Apartment,NA,Entire home/apt,11217,3,1,0,210,NA,2015-01-21
+26496384,2015-01-21T00:00:00Z,Spacious Suite in Hip Bushwick!,Brooklyn,Apartment,85,Entire home/apt,11221,1,1,17,90,86,2015-01-21
+26490481,2015-01-21T00:00:00Z,Charming Classic Brooklyn Railroad,Brooklyn,Apartment,100,Entire home/apt,11222,1,1,1,125,100,2015-01-21
+26472052,2015-01-21T00:00:00Z,Modern 3BD in boutique condo,Brooklyn,Apartment,NA,Entire home/apt,11249,2,1,0,325,NA,2015-01-21
+26505587,2015-01-21T00:00:00Z,Private Sunny Apartment in Gramercy,Manhattan,Apartment,100,Entire home/apt,10010,1,1,3,300,100,2015-01-21
+26491163,2015-01-21T00:00:00Z,Comfortable studio in Midtown NYC,Manhattan,Apartment,85,Entire home/apt,10016,1,1,5,190,88,2015-01-21
+26484511,2015-01-21T00:00:00Z,Sunny Upper West Side Summer Rental,Manhattan,Apartment,100,Entire home/apt,10024,1,1,1,175,100,2015-01-21
+26478437,2015-01-21T00:00:00Z,"Williamsburg room, private bathroom",Brooklyn,Apartment,100,Private room,11206,1,1,1,79,100,2015-01-21
+26500650,2015-01-21T00:00:00Z,New large 2-story Williamsburg apt,Brooklyn,Apartment,NA,Private room,11222,1,1,1,100,NA,2015-01-21
+26486411,2015-01-21T00:00:00Z,Queen Room in Warm Spacious Apt,Manhattan,Apartment,90,Private room,10029,1,1,21,115,93,2015-01-21
+26488427,2015-01-21T00:00:00Z,Cosy Room in Manhattan wBREAKFAST,Manhattan,Apartment,85,Private room,10032,1,1,9,75,89,2015-01-21
+26499961,2015-01-21T00:00:00Z,Quiet Private Rm&bath-female only,Manhattan,Apartment,100,Private room,10075,1,1,3,125,100,2015-01-21
+26506104,2015-01-21T00:00:00Z,Beautiful sunny bedroom in Astoria,Queens,Apartment,NA,Private room,11105,1,1,0,36,NA,2015-01-21
+26554386,2015-01-22T00:00:00Z,Hotel Gabrielle,Brooklyn,Apartment,90,Entire home/apt,11226,2,1,6,125,90,2015-01-22
+26537633,2015-01-22T00:00:00Z,"Perfect, Newly Renovated 1 Bed Apt!",Manhattan,Apartment,100,Entire home/apt,10016,1,1,1,174,100,2015-01-22
+26510563,2015-01-22T00:00:00Z,6 person available Upper West Side,Manhattan,Apartment,NA,Entire home/apt,10025,3,1,0,200,NA,2015-01-22
+26560622,2015-01-22T00:00:00Z,Cute charming one bedroom in HK,Manhattan,Apartment,90,Entire home/apt,10036,1,1,7,150,90,2015-01-22
+26546593,2015-01-22T00:00:00Z,Beautiful Quiet UES Studio,Manhattan,Apartment,NA,Entire home/apt,10075,1,1,0,235,NA,2015-01-22
+26555120,2015-01-22T00:00:00Z,Bright & Beautiful Big 1 Br Apt.,Queens,Apartment,NA,Entire home/apt,11104,1,1,0,100,NA,2015-01-22
+26547879,2015-01-22T00:00:00Z,"Private Rm w/Terrace, pvt.Entrance",Brooklyn,Apartment,80,Private room,11222,1,1,7,95,83,2015-01-22
+26554386,2015-01-22T00:00:00Z,Huge Room in the Heart of Brookyln!,Brooklyn,Apartment,90,Private room,11226,1,1,5,58,92,2015-01-22
+26543202,2015-01-22T00:00:00Z,Private room! Minutes to U.S open,Brooklyn,Apartment,90,Private room,11237,1,1,2,95,90,2015-01-22
+26543202,2015-01-22T00:00:00Z,Sunny Private room in Brooklyn! Hip,Brooklyn,Apartment,100,Private room,11237,1,1,5,95,100,2015-01-22
+26548265,2015-01-22T00:00:00Z,"Newly renovated, close to 2 trains!",Manhattan,Apartment,NA,Private room,10040,1,1,0,90,NA,2015-01-22
+26538839,2015-01-22T00:00:00Z,Cozy private room for 2 + Breakfast,Queens,Apartment,NA,Private room,11378,1,1,0,70,NA,2015-01-22
+26597845,2015-01-23T00:00:00Z,Bright & Spacious Loft!,Brooklyn,Loft,100,Entire home/apt,11237,1,1,1,195,100,2015-01-23
+26595320,2015-01-23T00:00:00Z,Luxury Apt near Statue of Liberty,Manhattan,Apartment,95,Entire home/apt,10004,1,1,9,159,97,2015-01-23
+26595884,2015-01-23T00:00:00Z,family friendly loft downtown nyc,Manhattan,Apartment,NA,Entire home/apt,10012,3,1,0,400,NA,2015-01-23
+26604132,2015-01-23T00:00:00Z,ZEN Space China Town,Manhattan,Apartment,100,Entire home/apt,10013,1,1,2,175,100,2015-01-23
+26590592,2015-01-23T00:00:00Z,Upper West Side 1 Bedroom Townhouse,Manhattan,Apartment,NA,Entire home/apt,10023,1,1,0,200,NA,2015-01-23
+26603840,2015-01-23T00:00:00Z,"* QUIET, CLEAN, BRIGHT, East 60's *",Manhattan,Apartment,90,Entire home/apt,10065,1,1,3,229,93,2015-01-23
+26606802,2015-01-23T00:00:00Z,Spacious West Village Dream Loft,Manhattan,Loft,100,Entire home/apt,10014,2,1,2,595,100,2015-01-23
+26596078,2015-01-23T00:00:00Z,Spacious Sunny Yogic Bedroom,Brooklyn,Apartment,80,Private room,11206,1,1,5,68,80,2015-01-23
+26595479,2015-01-23T00:00:00Z,Cozy & Convenient Room in Bed-Stuy,Brooklyn,Apartment,NA,Private room,11216,1,1,0,45,NA,2015-01-23
+26586864,2015-01-23T00:00:00Z,Beautiful Spacious Bed-Stuy bedroom,Brooklyn,Apartment,100,Private room,11221,1,1,1,68,100,2015-01-23
+26582274,2015-01-23T00:00:00Z,Great Room near Tomkins Square Park,Manhattan,Apartment,100,Private room,10009,1,1,1,50,100,2015-01-23
+26584615,2015-01-23T00:00:00Z,ROOM N QUEENS BEACH VIEW 20th Floor,Queens,Apartment,NA,Private room,11691,2,1,0,100,NA,2015-01-23
+26627378,2015-01-24T00:00:00Z,Luxury 2BR 2bath Gramercy apartment,Manhattan,Apartment,100,Entire home/apt,10003,3,1,5,309,100,2015-01-24
+26627436,2015-01-24T00:00:00Z,Lovely room in 2 bedroom apartment,Manhattan,Apartment,95,Private room,10030,1,1,9,89,95,2015-01-24
+26640253,2015-01-24T00:00:00Z,Convenience & Tranquility,Manhattan,Apartment,100,Private room,10031,1,1,1,110,100,2015-01-24
+26641037,2015-01-24T00:00:00Z,Room for two people New York,Manhattan,Apartment,60,Private room,10128,1,1,1,120,60,2015-01-24
+26647081,2015-01-24T00:00:00Z,1 Bedroom Apartment (Times Square),Manhattan,Apartment,NA,Shared room,10036,1,1,0,75,NA,2015-01-24
+26681543,2015-01-25T00:00:00Z,2 Bedroom Apartment,Brooklyn,Apartment,NA,Entire home/apt,11207,2,1,0,115,NA,2015-01-25
+26689336,2015-01-25T00:00:00Z,Huge apartment by the L Train.,Brooklyn,Apartment,NA,Entire home/apt,11211,2,1,0,150,NA,2015-01-25
+26702895,2015-01-25T00:00:00Z,Prime East Village-Charming 1BD,Manhattan,Apartment,90,Entire home/apt,10003,1,1,14,199,90,2015-01-25
+26669134,2015-01-25T00:00:00Z,Idyllic W. Village One Bedroom,Manhattan,Apartment,90,Entire home/apt,10014,1,1,14,175,91,2015-01-25
+26706093,2015-01-25T00:00:00Z,Upper East Side Comfortable Studio,Manhattan,Apartment,100,Entire home/apt,10028,2,1,1,125,100,2015-01-25
+26696927,2015-01-25T00:00:00Z,Room in East Williamsburg,Brooklyn,Apartment,NA,Private room,11206,2,1,0,90,NA,2015-01-25
+26710027,2015-01-25T00:00:00Z,"Cozy, sunny private room",Brooklyn,House,95,Private room,11233,1,1,6,55,97,2015-01-25
+26703035,2015-01-25T00:00:00Z,Private Bedroom in shared 2-bedroom,Manhattan,Apartment,95,Private room,10002,2,1,11,89,96,2015-01-25
+26682398,2015-01-25T00:00:00Z,Private Room in East Village!,Manhattan,Apartment,NA,Private room,10003,1,1,0,125,NA,2015-01-25
+26684579,2015-01-25T00:00:00Z,Bedroom available,Queens,Apartment,65,Private room,11367,1,1,4,60,65,2015-01-25
+26736201,2015-01-26T00:00:00Z,Lower East Side Getaway,Manhattan,Apartment,90,Entire home/apt,10002,2,1,15,165,91,2015-01-26
+26759289,2015-01-26T00:00:00Z,Stylish Studio on charming street,Manhattan,Apartment,90,Entire home/apt,10003,1,1,6,150,93,2015-01-26
+26723635,2015-01-26T00:00:00Z,Studio w incredible East River view,Manhattan,Apartment,80,Entire home/apt,10029,1,1,1,119,80,2015-01-26
+26730772,2015-01-26T00:00:00Z,BEAUTIFUL NEWLY RENOVATED 2 BR APT,Manhattan,Apartment,75,Entire home/apt,10035,3,1,12,209,75,2015-01-26
+26740596,2015-01-26T00:00:00Z,Uptown Comfort! Spacious & Sunny!,Manhattan,Apartment,85,Entire home/apt,10037,1,1,8,130,88,2015-01-26
+26712901,2015-01-26T00:00:00Z,Amazing Studio in Wall St Area,Manhattan,Apartment,100,Entire home/apt,10038,1,1,8,190,100,2015-01-26
+26729553,2015-01-26T00:00:00Z,The Heart Of Brooklyn,Brooklyn,House,NA,Private room,11208,1,1,0,90,NA,2015-01-26
+26732630,2015-01-26T00:00:00Z,"Large, Furnished East Village Room",Manhattan,Apartment,NA,Private room,10003,1,1,0,115,NA,2015-01-26
+26739861,2015-01-26T00:00:00Z,Amazing location.,Manhattan,Apartment,NA,Private room,10022,1,1,0,120,NA,2015-01-26
+26750518,2015-01-26T00:00:00Z,sf apt,Manhattan,Apartment,NA,Private room,10128,1,1,0,150,NA,2015-01-26
+26815831,2015-01-27T00:00:00Z,1BR apt in Brooklyn Heights,Brooklyn,Apartment,NA,Entire home/apt,11201,1,1,0,150,NA,2015-01-27
+26813024,2015-01-27T00:00:00Z,Luxurious Spacious Loft in Chelsea!,Manhattan,Apartment,NA,Entire home/apt,10001,2,1,0,250,NA,2015-01-27
+26803053,2015-01-27T00:00:00Z,Lofted bedroom apt in Gramercy park,Manhattan,Apartment,NA,Entire home/apt,10010,1,1,0,170,NA,2015-01-27
+26813024,2015-01-27T00:00:00Z,Amazing Chelsea studio!,Manhattan,Apartment,NA,Entire home/apt,10011,1,1,0,225,NA,2015-01-27
+26812573,2015-01-27T00:00:00Z,Large Bright Apartment,Manhattan,Apartment,NA,Entire home/apt,10014,3,1,0,400,NA,2015-01-27
+26781249,2015-01-27T00:00:00Z,Luxury Upper East Side Studio Apt,Manhattan,Apartment,90,Entire home/apt,10021,2,1,3,150,90,2015-01-27
+26804993,2015-01-27T00:00:00Z,Charming 1BR Steps to Central Park,Manhattan,Apartment,85,Entire home/apt,10023,1,1,9,200,89,2015-01-27
+26811024,2015-01-27T00:00:00Z,Charming Apartment - up to 4 people,Manhattan,Apartment,80,Entire home/apt,10023,1,1,3,169,80,2015-01-27
+26818265,2015-01-27T00:00:00Z,Enjoy a comfy apartment on the UWS,Manhattan,Apartment,100,Entire home/apt,10025,3,1,1,250,100,2015-01-27
+26804885,2015-01-27T00:00:00Z,Quaint Madison Ave Apt,Manhattan,Apartment,100,Entire home/apt,10029,2,1,3,100,100,2015-01-27
+26822463,2015-01-27T00:00:00Z,One Month Rental,Manhattan,Apartment,NA,Entire home/apt,10029,1,1,0,150,NA,2015-01-27
+26804675,2015-01-27T00:00:00Z,Cozy 2br in Upper East Side,Manhattan,Apartment,NA,Entire home/apt,10128,2,1,0,200,NA,2015-01-27
+26807866,2015-01-27T00:00:00Z,HUGE 1 Bedroom in Sunnyside,Queens,Apartment,100,Entire home/apt,11104,2,1,7,100,100,2015-01-27
+26818210,2015-01-27T00:00:00Z,Large 1br in Astoria 800sqft,Queens,Apartment,100,Entire home/apt,11105,1,1,1,150,100,2015-01-27
+26818023,2015-01-27T00:00:00Z,Cute bedroom!,Brooklyn,Apartment,NA,Private room,11206,1,1,0,50,NA,2015-01-27
+26791399,2015-01-27T00:00:00Z,Spacious Park Slope Duplex,Brooklyn,Apartment,95,Private room,11215,1,1,13,89,97,2015-01-27
+26815391,2015-01-27T00:00:00Z,Large room in two-floor apt.,Brooklyn,Apartment,NA,Private room,11221,1,1,0,35,NA,2015-01-27
+26792716,2015-01-27T00:00:00Z,The Total Brooklyn Experience!,Brooklyn,Apartment,NA,Private room,11237,1,1,0,65,NA,2015-01-27
+26804174,2015-01-27T00:00:00Z,"Sunny East Village Room, Epic Roof",Manhattan,Apartment,100,Private room,10009,1,1,2,113,100,2015-01-27
+26813558,2015-01-27T00:00:00Z,Beautiful Bedroom in Chelsea,Manhattan,Apartment,90,Private room,10011,1,1,24,99,92,2015-01-27
+26813558,2015-01-27T00:00:00Z,Sunny Bedroom in the Heart of NYC,Manhattan,Apartment,90,Private room,10011,1,1,33,99,91,2015-01-27
+26812573,2015-01-27T00:00:00Z,A bright room with a view!,Manhattan,Apartment,85,Private room,10014,1,1,16,150,88,2015-01-27
+26812573,2015-01-27T00:00:00Z,Great room with a Hudson River view,Manhattan,Apartment,100,Private room,10014,1,1,5,150,100,2015-01-27
+26819117,2015-01-27T00:00:00Z,"Ideal Location, Spacious IBr",Manhattan,Apartment,100,Private room,10016,1,1,1,115,100,2015-01-27
+26770295,2015-01-27T00:00:00Z,Quiet 1 bedroom near Central Park,Manhattan,Apartment,NA,Private room,10025,1,1,0,55,NA,2015-01-27
+26812332,2015-01-27T00:00:00Z,UWS--Best part of Central Park,Manhattan,Apartment,NA,Private room,10025,1,1,0,88,NA,2015-01-27
+26816503,2015-01-27T00:00:00Z,Huge bedroom elevator near Columbia,Manhattan,Apartment,100,Private room,10026,1,1,3,85,100,2015-01-27
+26790498,2015-01-27T00:00:00Z,Large room in Hamilton Heights,Manhattan,Apartment,NA,Private room,10031,1,1,0,60,NA,2015-01-27
+26820783,2015-01-27T00:00:00Z,18-12 Astoria Blvd rm 1 Guys Only,Queens,Apartment,NA,Private room,11102,1,1,0,43,NA,2015-01-27
+26820783,2015-01-27T00:00:00Z,18-12 Astoria Blvd Rm2 Guys Only,Queens,Apartment,NA,Private room,11102,1,1,0,50,NA,2015-01-27
+26820783,2015-01-27T00:00:00Z,25-45 23rd st#2 ROOM 1 GUYS ONLY,Queens,Apartment,NA,Private room,11102,1,1,0,37,NA,2015-01-27
+26820783,2015-01-27T00:00:00Z,22-11 23rd Street Rm1 - Ladies only,Queens,Apartment,NA,Private room,11105,1,1,0,39,NA,2015-01-27
+26786604,2015-01-27T00:00:00Z,Make yourself at home.,Queens,Apartment,100,Private room,11373,1,1,8,65,100,2015-01-27
+26820783,2015-01-27T00:00:00Z,83-08 Dongan Av  Rm1 Ladies only,Queens,Apartment,NA,Private room,11373,1,1,0,38,NA,2015-01-27
+26820783,2015-01-27T00:00:00Z,83-08 Dongan Av Rm2 Ladies Only,Queens,Apartment,NA,Private room,11373,1,1,0,37,NA,2015-01-27
+26820783,2015-01-27T00:00:00Z,39-46 58th St Rm2 - Guys Only,Queens,Apartment,60,Private room,11377,1,1,1,40,60,2015-01-27
+26820783,2015-01-27T00:00:00Z,"39-46 58th St,Room 1 Ladies Only",Queens,Apartment,NA,Private room,11377,1,1,0,38,NA,2015-01-27
+26820783,2015-01-27T00:00:00Z,41-27 71st st. Room 1 Guys Only,Queens,Apartment,NA,Private room,11377,1,1,0,43,NA,2015-01-27
+26811311,2015-01-27T00:00:00Z,Comfy Space in Williamsburg!,Brooklyn,Apartment,100,Shared room,11206,1,1,3,85,100,2015-01-27
+26811024,2015-01-27T00:00:00Z,Big Sofa-bed up to 2 people,Manhattan,Apartment,90,Shared room,10023,1,1,3,90,93,2015-01-27
+26877341,2015-01-28T00:00:00Z,"Bright, Cozy 1BR in Williamsburg",Brooklyn,Apartment,80,Entire home/apt,11211,1,1,6,130,84,2015-01-28
+26862798,2015-01-28T00:00:00Z,Amazing Brooklyn 1BR Loft,Brooklyn,Apartment,90,Entire home/apt,11222,1,1,7,255,94,2015-01-28
+26870961,2015-01-28T00:00:00Z,"Charming/comfortable 1br,Greenpoint",Brooklyn,Apartment,100,Entire home/apt,11222,1,1,1,85,100,2015-01-28
+26857560,2015-01-28T00:00:00Z,United Nations Large Alcove Studio,Manhattan,Apartment,100,Entire home/apt,10022,1,1,1,240,100,2015-01-28
+26861409,2015-01-28T00:00:00Z,CONFORTABLE STUDIO-UPPER EAST SIDE,Manhattan,Apartment,100,Entire home/apt,10028,1,1,2,120,100,2015-01-28
+26825592,2015-01-28T00:00:00Z,3 bd Upper East Side - Roof Access,Manhattan,Apartment,NA,Entire home/apt,10065,3,1,0,300,NA,2015-01-28
+26867230,2015-01-28T00:00:00Z,Room available in Dumbo Brooklyn,Brooklyn,Apartment,NA,Private room,11201,1,1,0,75,NA,2015-01-28
+26877931,2015-01-28T00:00:00Z,Room Next to Subway,Brooklyn,Apartment,90,Private room,11206,1,1,14,55,91,2015-01-28
+26869290,2015-01-28T00:00:00Z,Cozy bedroom in Bay Ridge,Brooklyn,Apartment,100,Private room,11220,1,1,4,65,100,2015-01-28
+26877037,2015-01-28T00:00:00Z,Private Room,Brooklyn,Apartment,NA,Private room,11229,1,1,0,66,NA,2015-01-28
+26862050,2015-01-28T00:00:00Z,Charming Brooklyn vibes,Brooklyn,Apartment,NA,Private room,11231,1,1,0,105,NA,2015-01-28
+26852347,2015-01-28T00:00:00Z,Alphabet City Room,Manhattan,Apartment,100,Private room,10009,1,1,1,130,100,2015-01-28
+26825416,2015-01-28T00:00:00Z,Exposed brick private room Gramercy,Manhattan,Apartment,NA,Private room,10016,1,1,0,95,NA,2015-01-28
+26825416,2015-01-28T00:00:00Z,"Private room in Gramercy, Manhattan",Manhattan,Apartment,100,Private room,10016,1,1,1,60,100,2015-01-28
+26871085,2015-01-28T00:00:00Z,Cozy + steps from Central Park!,Manhattan,Apartment,100,Private room,10029,1,1,1,99,100,2015-01-28
+26874574,2015-01-28T00:00:00Z,Room in new boutique building,Manhattan,Apartment,NA,Private room,11214,NA,1,1,60,NA,2015-01-28
+26856159,2015-01-28T00:00:00Z,Classic Harlem Brownstone - - NYC,Manhattan,House,90,Private room,10031,1,1,8,58,91,2015-01-28
+26856159,2015-01-28T00:00:00Z,Classic Harlem Brownstone - NYC,Manhattan,House,90,Private room,10031,1,1,12,79,90,2015-01-28
+26876407,2015-01-28T00:00:00Z,Semi Private Room Uptown Manhattan,Manhattan,Apartment,100,Shared room,10033,1,1,1,45,100,2015-01-28
+26900762,2015-01-29T00:00:00Z,"$95/USD  Eat, Sleep & Explore NYC!",Brooklyn,Apartment,90,Entire home/apt,11205,10,1,7,95,90,2015-01-29
+26929687,2015-01-29T00:00:00Z,Prime Time Williamsburg Studio,Brooklyn,Apartment,100,Entire home/apt,11211,1,1,1,110,100,2015-01-29
+26908204,2015-01-29T00:00:00Z,Sunny 1 bd -Prospect Park!,Brooklyn,Apartment,95,Entire home/apt,11225,1,1,5,86,96,2015-01-29
+26926958,2015-01-29T00:00:00Z,Sunny Apt Overlooking Prospect Park,Brooklyn,Apartment,100,Entire home/apt,11225,2,1,1,80,100,2015-01-29
+26900762,2015-01-29T00:00:00Z,Cozy 2 BR/1BA Apt.  Sleeps 10 guest,Brooklyn,Apartment,NA,Entire home/apt,11238,5,1,0,295,NA,2015-01-29
+26900762,2015-01-29T00:00:00Z,NYC Group Special!,Brooklyn,Apartment,NA,Entire home/apt,11238,5,1,0,700,NA,2015-01-29
+26900762,2015-01-29T00:00:00Z,Experience Nyc $95/USD Group Stays,Brooklyn,Bed & Breakfast,80,Entire home/apt,11205,10,1,4,95,80,2015-01-29
+26900762,2015-01-29T00:00:00Z,$700 PVT. 4 BR/2BA (up to 19 guest),Brooklyn,House,90,Entire home/apt,11205,10,1,3,700,93,2015-01-29
+26900762,2015-01-29T00:00:00Z,Large Groups/7BR/4BA Home/$1500/USD,Brooklyn,House,100,Entire home/apt,11205,16,1,2,1500,100,2015-01-29
+26899122,2015-01-29T00:00:00Z,Sunny 1bedroom with yard,Brooklyn,Townhouse,NA,Entire home/apt,11215,2,1,0,85,NA,2015-01-29
+26917813,2015-01-29T00:00:00Z,"Quite, Large, Comfortable Studio",Manhattan,Apartment,80,Entire home/apt,10003,1,1,1,135,80,2015-01-29
+26909538,2015-01-29T00:00:00Z,Cozy apartment in Chelsea,Manhattan,Apartment,90,Entire home/apt,10011,2,1,2,300,90,2015-01-29
+26930341,2015-01-29T00:00:00Z,Chic Yet Cozy Spot In HK,Manhattan,Apartment,NA,Entire home/apt,10036,2,1,0,157,NA,2015-01-29
+26919952,2015-01-29T00:00:00Z,1BR+great views/easy commute/washer,Queens,Apartment,90,Entire home/apt,11101,1,1,6,200,90,2015-01-29
+26924376,2015-01-29T00:00:00Z,LOVELY TWO BEDROOMS       APARTMENT,Queens,Bed & Breakfast,80,Entire home/apt,11416,5,1,3,85,80,2015-01-29
+26923225,2015-01-29T00:00:00Z,"Big, Furnished Room in Fort Greene",Brooklyn,Apartment,90,Private room,11205,1,1,2,40,90,2015-01-29
+26923225,2015-01-29T00:00:00Z,Two Private Rooms in Spacious Apt,Brooklyn,Apartment,NA,Private room,11205,2,1,0,53,NA,2015-01-29
+26898211,2015-01-29T00:00:00Z,Cosy room - Lower Manhattan - NYC,Manhattan,Apartment,90,Private room,10002,1,1,2,86,90,2015-01-29
+26901889,2015-01-29T00:00:00Z,Art Deco Chelsea Apartment,Manhattan,Apartment,95,Private room,10011,1,1,8,110,98,2015-01-29
+26908607,2015-01-29T00:00:00Z,LRG bedroom w/ private bath in FH!,Queens,House,NA,Private room,11375,2,1,0,200,NA,2015-01-29
+26925894,2015-01-29T00:00:00Z,East Village Studio Like Room,Manhattan,Apartment,80,Shared room,10009,1,1,1,80,80,2015-01-29
+26955105,2015-01-30T00:00:00Z,Hand Crafted Williamsburg Sanctuary,Brooklyn,Apartment,100,Entire home/apt,11211,2,1,1,130,100,2015-01-30
+26951283,2015-01-30T00:00:00Z,Comfy 1 Bedroom Apt with Guest Room,Brooklyn,Apartment,80,Entire home/apt,11215,2,1,1,100,80,2015-01-30
+26973225,2015-01-30T00:00:00Z,"Entire Flat, Rooftop - Williamsburg",Brooklyn,Apartment,100,Entire home/apt,11249,1,1,1,120,100,2015-01-30
+26957808,2015-01-30T00:00:00Z,"Simple, Cozy, East Village Studio!",Manhattan,Apartment,90,Entire home/apt,10009,1,1,33,119,90,2015-01-30
+26959087,2015-01-30T00:00:00Z,Pinterest-esque space for stay,Manhattan,Apartment,100,Entire home/apt,10016,2,1,5,160,100,2015-01-30
+26953082,2015-01-30T00:00:00Z,"2BR in Hell's Kitchen! (2BR, 1BA)",Manhattan,Apartment,80,Entire home/apt,10019,3,1,23,150,81,2015-01-30
+26953082,2015-01-30T00:00:00Z,2BR Steps away from Times Square!,Manhattan,Apartment,85,Entire home/apt,10019,3,1,18,150,87,2015-01-30
+26936126,2015-01-30T00:00:00Z,Charming Quit Convenient 1  bedroom,Manhattan,Apartment,80,Entire home/apt,10022,1,1,7,220,83,2015-01-30
+26975156,2015-01-30T00:00:00Z,Cozy East Harlem 1BD,Manhattan,Apartment,100,Entire home/apt,10035,2,1,1,100,100,2015-01-30
+26953082,2015-01-30T00:00:00Z,Comfort 2BR in Hell's Kitchen,Manhattan,Apartment,90,Entire home/apt,10036,3,1,9,150,93,2015-01-30
+26964515,2015-01-30T00:00:00Z,10-15 min to mid town and Central Park,Brooklyn,Apartment,90,Private room,11217,1,1,5,75,92,2015-01-30
+26972198,2015-01-30T00:00:00Z,Bedroom in Greenwich Village,Manhattan,Apartment,NA,Private room,10003,1,1,0,115,NA,2015-01-30
+26998839,2015-01-31T00:00:00Z,Lovely 2 Bed Apt. in Williamsburg!,Brooklyn,Apartment,NA,Entire home/apt,11206,2,1,0,145,NA,2015-01-31
+26980460,2015-01-31T00:00:00Z,Sunny spacious studio,Brooklyn,Apartment,NA,Entire home/apt,11209,1,1,0,100,NA,2015-01-31
+27000317,2015-01-31T00:00:00Z,Sun-Soaked Crown Heights 1-Bedroom,Brooklyn,Apartment,100,Entire home/apt,11216,1,1,4,75,100,2015-01-31
+27008792,2015-01-31T00:00:00Z,New Building in Trendy Bushwick,Brooklyn,Apartment,100,Entire home/apt,11221,1,1,3,125,100,2015-01-31
+27016661,2015-01-31T00:00:00Z,A Tiny Jewel in the Heart of L.E.S.,Manhattan,Apartment,95,Entire home/apt,10002,1,1,28,125,96,2015-01-31
+27002104,2015-01-31T00:00:00Z,Upper West Side Brand New Building,Manhattan,Apartment,NA,Entire home/apt,10024,1,1,0,200,NA,2015-01-31
+26996724,2015-01-31T00:00:00Z,Perfect Long Island City Apt!,Queens,Apartment,NA,Entire home/apt,11101,2,1,0,143,NA,2015-01-31
+26998839,2015-01-31T00:00:00Z,King Size bed/room in Williamsburg!,Brooklyn,Apartment,100,Private room,11206,1,1,3,70,100,2015-01-31
+27013617,2015-01-31T00:00:00Z,Comfy Room in the heart of BK!,Brooklyn,Apartment,90,Private room,11216,1,1,19,50,92,2015-01-31
+26989581,2015-01-31T00:00:00Z,Room 5 min from LGA Airport,Queens,Apartment,100,Private room,11370,1,1,1,85,100,2015-01-31

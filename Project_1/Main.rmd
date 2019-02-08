@@ -1,0 +1,239 @@
+---
+title: "Airbnb NY data"
+output:
+  html_document:
+    df_print: paged
+---
+
+# 1. Packages
+
+Load readr packages to import the xlsx file.
+
+```{r Libraries, warning=FALSE, include=FALSE}
+
+library(readr) # load data package
+library(readxl) # load data package
+library(dplyr) # data manipulation
+library(lubridate) # working with dates
+library(tidyr)
+library(plotly)
+library(magrittr)
+
+```
+
+# 2. Data Load
+
+
+```{r Data Load}
+
+airbnb <- read_excel("Data/airbnb.xlsx")
+
+```
+
+ctrl+alt+i - create a chnuk of R code
+
+```{r Data manipulation, include=FALSE}
+
+airbnb_2 <- airbnb %>%
+  filter(!is.na(airbnb$`Host Since`)) %>%
+  mutate(Host_Since = ymd(`Host Since`)) %>%
+  filter(Host_Since >= "2015-01-01" & Host_Since < "2015-02-01")
+
+```
+
+
+```{r Date Save}
+
+setwd("output")
+
+write_delim(airbnb_2, "airbinb_analysis.csv", delim = ",")
+
+```
+
+
+```{r Load CSV}
+
+setwd("output")
+
+Read_CSV <- read_delim("airbinb_analysis.csv", delim = ",")
+
+```
+
+```{r}
+
+Spread <- airbnb %>% select(Neighbourhood,Price) %>%
+  mutate(ID = 1:NROW(.)) %>% select(ID,Neighbourhood,Price) %>% spread(.,Neighbourhood,Price)
+
+
+Gather <- Spread %>% gather(.,ID,Price) %>% na.omit()
+
+```
+
+
+```{r}
+
+X <- airbnb_2 %>% mutate(Addition = Beds+`Review Scores Rating`)
+
+airbnb_2$`Review Scores Rating`[is.na(airbnb_2$`Review Scores Rating`)] <- 0 
+
+airbnb_2$TWO_bed_apartments <- NA
+
+airbnb_2$TWO_bed_apartments[airbnb_2$`Property Type` == "Apartment" & airbnb_2$Beds == 2] <- "2 Bed Apartments"
+
+```
+
+
+```{r Plotly}
+
+p <- plot_ly(
+  x = c("giraffes", "orangutans", "monkeys"),
+  y = c(20, 14, 23),
+  name = "SF Zoo",
+  type = "bar"
+)
+p
+
+Animals <- c("giraffes", "orangutans", "monkeys")
+SF_Zoo <- c(20, 14, 23)
+LA_Zoo <- c(12, 18, 29)
+data <- data.frame(Animals, SF_Zoo, LA_Zoo)
+data
+p2 <- plot_ly(data, x = ~Animals, y = ~SF_Zoo, type = 'bar', name = 'SF Zoo') %>%
+  add_trace(y = ~LA_Zoo, name = 'LA Zoo') %>%
+  layout(yaxis = list(title = 'Count'), barmode = 'group')
+p2
+
+```
+
+```{r}
+
+p <- plot_ly(
+  labels = c("giraffes", "orangutans", "monkeys"),
+  values = c(20, 14, 23),
+  type = "pie")
+p
+
+```
+
+```{r Plotly and ggplot}
+
+gg <- ggplot(diamonds, aes(carat)) +
+  geom_histogram()
+gg
+
+p <- ggplotly(gg)
+
+p
+
+```
+
+
+
+```{r}
+
+airbinb_price_below_1000_Brook <- airbnb$Price[airbnb$Price < 1000 & airbnb$Neighbourhood == "Brooklyn"]
+
+airbinb_price_below_1000_Man <- airbnb$Price[airbnb$Price < 1000 & airbnb$Neighbourhood == "Manhattan"]
+
+
+p <- plot_ly(x = airbinb_price_below_1000_Brook, type = "histogram", name = 'Brooklyn Prices < 1000') %>% add_trace(
+  x = airbinb_price_below_1000_Man, type = "histogram", name = 'Manhattan Prices < 1000'
+)
+p
+
+p <- plot_ly(alpha = 0.6) %>%
+  add_histogram(x = airbinb_price_below_1000_Brook, name = 'Brooklyn Prices < 1000') %>%
+  add_histogram(x = airbinb_price_below_1000_Man, name = 'Manhattan Prices < 1000') %>%
+  layout(barmode = "overlay", title = "Prices Distribution in Brooklyn and Manhttan")
+p
+
+```
+
+
+```{r}
+
+df <- read.csv("https://raw.githubusercontent.com/plotly/datasets/master/2011_us_ag_exports.csv")
+
+df$hover <- with(df, paste(state, '<br>', "Beef", beef, "Dairy", dairy, "<br>",
+                           "Fruits", total.fruits, "Veggies", total.veggies,
+                           "<br>", "Wheat", wheat, "Corn", corn))
+# give state boundaries a white border
+l <- list(color = toRGB("black"), width = 4)
+# specify some map projection/options
+g <- list(
+  scope = 'usa',
+  projection = list(type = 'albers usa'),
+  showlakes = TRUE,
+  lakecolor = toRGB('green')
+)
+
+p <- plot_geo(df, locationmode = 'USA-states') %>%
+  add_trace(
+    z = ~total.exports, text = ~hover, locations = ~code,
+    color = ~total.exports, colors = 'Oranges'
+  ) %>%
+  colorbar(title = "Millions USD") %>%
+  layout(
+    title = '2011 US Agriculture Exports by State<br>(Hover for breakdown)',
+    geo = g
+  )
+p
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

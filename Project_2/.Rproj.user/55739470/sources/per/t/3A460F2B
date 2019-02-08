@@ -1,0 +1,28 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1549628744870.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2491622759",
+    "id" : "3A460F2B",
+    "lastKnownWriteTime" : 1549631041,
+    "last_content_update" : 1549631041157,
+    "path" : "~/Project_2/Notebook.rmd",
+    "project_path" : "Notebook.rmd",
+    "properties" : {
+        "chunk_output_type" : "inline",
+        "cursorPosition" : "7,18",
+        "docOutlineVisible" : "0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

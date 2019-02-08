@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1549630235284.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "651E0F3A",
+    "lastKnownWriteTime" : 1549630228,
+    "last_content_update" : 1549630235284,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "D3824D59",
+        "caption" : "airbnb_brooklyn_House",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=airbnb_brooklyn_House&cache_key=D3824D59",
+        "displayedObservations" : 645,
+        "environment" : "",
+        "expression" : "airbnb_brooklyn_House",
+        "object" : "airbnb_brooklyn_House",
+        "preview" : 0,
+        "totalObservations" : 645,
+        "variables" : 13
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

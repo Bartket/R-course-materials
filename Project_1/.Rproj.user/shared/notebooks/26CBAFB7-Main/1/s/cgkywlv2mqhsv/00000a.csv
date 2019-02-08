@@ -1,0 +1,17 @@
+"0",""
+"0","library(readr) # load data package"
+"0","library(readxl) # load data package"
+"0","library(dplyr) # data manipulation"
+"0","library(lubridate) # working with dates"
+"0","library(tidyr)"
+"0","library(plotly)"
+"0","library(magrittr)"
+"2","
+Do³¹czanie pakietu: ‘magrittr’
+
+"
+"2","Nastêpuj¹cy obiekt zosta³ zakryty z ‘package:tidyr’:
+
+    extract
+
+"

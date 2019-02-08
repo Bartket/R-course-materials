@@ -1,0 +1,28 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1549534336724.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3051580765",
+    "id" : "7F7AEF7B",
+    "lastKnownWriteTime" : 1549619069,
+    "last_content_update" : 1549619069748,
+    "path" : "~/Project_1/Main.rmd",
+    "project_path" : "Main.rmd",
+    "properties" : {
+        "chunk_output_type" : "inline",
+        "cursorPosition" : "101,27",
+        "docOutlineVisible" : "0",
+        "scrollLine" : "94",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

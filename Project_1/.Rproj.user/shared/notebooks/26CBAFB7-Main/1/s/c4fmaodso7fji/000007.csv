@@ -1,0 +1,4 @@
+"0","Gather <- Spread %>% gather(.,ID,Price) %>% rm.na()
+"
+"2","Error in rm.na(.) : could not find function ""rm.na""
+"

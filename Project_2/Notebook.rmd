@@ -1,0 +1,84 @@
+---
+title: "Airbnb Analysis"
+output:
+  html_document:
+    df_print: paged
+---
+
+image: ![](image.png)
+
+# 1. Libraries
+
+```{r Library}
+
+library(readxl)
+library(readr)
+library(dplyr)
+library(stringr)
+library(plotly)
+
+```
+
+# 2. Data Load
+
+To add new R code Chunk Press Ctrl+Alt+i
+
+1. First ordered list item
+2. Another item
+⋅⋅* Unordered sub-list. 
+1. Actual numbers don't matter, just that it's a number
+⋅⋅1. Ordered sub-list
+4. And another item.
+
+```{r}
+
+airbnb <- read_xlsx("Data/airbnb.xlsx")
+
+```
+
+### a. Standarize the Name column and search for rows with "balcony" in its name
+
+```{r, include=FALSE}
+
+airbnb$Name <- str_to_lower(airbnb$Name)
+
+airbnb$Neighbourhood <- str_to_upper(airbnb$Neighbourhood)
+
+airbnb$Neighbourhood <- str_to_title(airbnb$Neighbourhood)
+
+balcony <- str_match(airbnb$Name, "balcony")
+
+airbnb2 <- airbnb %>%
+  mutate(balcony = str_match(Name, "balcony")) %>%
+  filter(!is.na(balcony))
+
+```
+
+
+```{r}
+
+airbnb_brooklyn_House <- airbnb %>%
+  filter(Neighbourhood == "Brooklyn") %>%
+  filter(`Property Type` == "House") %>%
+  filter(!is.na(`Review Scores Rating`)) %>%
+  filter(`Review Scores Rating` >= 90)
+
+data <- airbnb_brooklyn_House %>% group_by(`Room Type`) %>% summarise("Mean Price" = mean(Price), "Min Price" = min(Price))
+
+```
+
+
+```{r Clear Workspace}
+
+p1 <- plot_ly(data, x = data$`Room Type`, y = data$`Mean Price`, type = 'bar', name = 'Mean Price') %>% 
+  add_trace(y = data$`Min Price`, name = 'Min Price')
+p1
+
+```
+
+
+
+
+
+
+

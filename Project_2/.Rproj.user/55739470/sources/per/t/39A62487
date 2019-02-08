@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1549629819699.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "39A62487",
+    "lastKnownWriteTime" : 2314885436532011320,
+    "last_content_update" : 1549629819699,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "DCBB1F2E",
+        "caption" : "balcony",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=balcony&cache_key=DCBB1F2E",
+        "displayedObservations" : "30478",
+        "environment" : "",
+        "expression" : "balcony",
+        "object" : "balcony",
+        "preview" : "0",
+        "totalObservations" : "30478",
+        "variables" : "1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

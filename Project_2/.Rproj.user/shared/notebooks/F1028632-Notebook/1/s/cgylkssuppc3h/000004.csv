@@ -1,0 +1,7 @@
+"0",""
+"0","airbnb_brooklyn_House <- airbnb %>%"
+"0","  filter(Neighbourhood == ""Brooklyn"") %>%"
+"0","  filter(`Property Type` == ""House"") %>%"
+"0","  filter(!is.na(`Review Scores Rating`)) %>%"
+"0","  filter(`Review Scores Rating` >= 90)"
+"0",""

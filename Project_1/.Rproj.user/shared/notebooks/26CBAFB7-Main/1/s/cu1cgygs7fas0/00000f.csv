@@ -1,0 +1,6 @@
+"0",""
+"0","airbnb_2 <- airbnb %>%"
+"0","  filter(!is.na(airbnb$`Host Since`)) %>%"
+"0","  mutate(Host_Since = ymd(`Host Since`)) %>%"
+"0","  filter(Host_Since >= ""2015-01-01"" & Host_Since < ""2015-02-01"")"
+"0",""
